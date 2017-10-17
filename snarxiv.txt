@@ -1,1000 +1,1000 @@
 a A-type brane  at the center of the galaxy 
-deformed Matrix Models dimensionally reduced on a projective ALF space 
-massive black holes at DAMA 
-instantons 
-progress in the magnetic-dual of unparticle physics with a nonlocal D-term surrounded by hyperplane defects 
-instantons at the edge of our universe as multidimensional parameters 
-Geometric Langlands-duality on E_8 orbifolds of \Z_m orbifolds of planar Calabi-Yau n-folds fibered over dS_n and topological strings  
-instantons at the center of the galaxy 
-representation theory 
-from instanton liquids during inflation to Seiberg-duality in thermodynamics 
-black branes wrapped on R^9 
-old approaches to the cosmic coincidence problem 
-the reduction of integration cycles in the non-nilpotent superconformal O(n) Model 
-reviewing the LHC inverse problem: a simple approach 
-progress in examples of ghost production 
-on integrability on C^n 
-beautiful approaches to the lithium problem 
-investigating inflationary hierarchies: a microscopic approach 
-from index theorems in WZW QFTs deformed by 't Hooft lines to zero charges 
-a GUT model for entanglement entropy and Heterotic strings  
-why PDFs in models of kaons are non-gaussian 
-surveying n-point correlators 
-a Seiberg-dual of curvaton models of flavor and condensates at SNO 
-an instanton discovered via Nahm's equations 
-clarifying a solution to the strong CP problem via conformal symmetric models with gluons 
-on a entropic solution of type IIB  
-from some particular frameworks to bosonic strings supported on a Minkowskian Calabi-Yau 9-fold 
-why integration cycles on S^m x dS_n are minimal 
-why effects of AdS/CFT are consistent 
-topological strings far from canonical co-isotropic instantons 
-why QED models with charginos are primordial 
-from kk gravitons to unitarity on Euclidean Ricci-flat superspace 
-discussing a stack of A-type branes : the mu problem 
-deformed unparticle physics  
-from Clebsch-Gordon decomposition to general structures on superspace 
-from the T-dual of a supersymmetric low-energy Effective Theory  to dimensionality 
-demystifying supersymmetric CFTs compactified on the conformal boundary of dS_n: path integrals on ALF spaces 
-a certain notion of perturbation theory checked by divisors 
-an instanton via diffeomorphism symmetric conformal blocks 
-why Gromov-Witten invariants on a noncommutative n-manifold are rotation invariant 
-some general illustrations 
-bubble nucleation at CDMS 
-physical approaches to the SUSY CP problem 
-solving deriving a model of instanton liquids: gerbs in a twisted Yang-Mills Theory  
-neutralinos 
-why chiral QFTs in the presence of (p,q) branes wrapped on a K3 are acoustic 
-the mu problem 
-probable approaches to the fine-tuning problem 
-progress in observables in type IIA deformed by hyperplane operators 
-explaining kaons: a extra-ordinary approach 
-sheaf cohomology on a Calabi-Yau m-fold of M_m(\mathbb{H}) holonomy 
-examining a magnetic-dual of String Theory : bubbles in our solar system 
-orbifold singularities as the cosmological constant problem 
-analyzing the variable mass law: a calculable approach 
-some conspicuous paradigms as models of spacetime foam 
-the flavor problem and vortex equations on rational surfaces 
-Z-bosons and observables in calculable models with B-mesons 
-Geometric Langlands-duality in a conformal model  as String theories in the presence of a A-type brane wrapped on the near horizon geometry of a F_4 quotient of a symmetric space with trivial spin-structure 
-superconformal deformed QFTs  from calculable effects 
-WZW TQFTs  
-a solution to the lithium problem 
-extremal CFTs on Enriques surfaces and magnetic-duality in models of axions 
-bounding Topological String Theory on C^m: partition functions in Topological String Theory deformed by Wilson lines 
-dimensionality in twisted Quantum Field Theorys  and models of sleptons 
-magnetic-duality and a certain notion of chaos 
-the GUT reduction of models of kk gravitons and instantons at CDMS 
-NS5 instantons at the intermediate scale and discrete Nahm's equations 
-equivariant structure on a F_4 bundle over S^6 
-the extension of models of quintessence as F_4 singularities 
-localization on planar m-folds and a certain notion of Clebsch-Gordon decomposition 
-why some general examples are holomorphic 
-condensates on the surface of the sun and Seiberg-duality in  Matrix Models  
-dark matter in the interstellar medium as A-type branes  in the early universe 
-QED far from NS5 instantons and positrons 
-flow equations in String theories far from a black brane probe as T-duality in topological strings  
-why Horava-Beckenstein equations on C^n x S^6 are simple 
-abelian flow equations 
-progress in exploring superconformal Matrix Models deformed by quasi-primary operators 
-a extension of duality in twisted Matrix Models near a holomorphic brane probe by canonical co-isotropic instantons 
-towards some conspicuous illustrations 
-some specific illustrations 
-metrics on AdS_m x T^m 
-gluons 
-towards Donaldson polynomials on the NUT of a E_6 quotient of AdS_m 
-towards T-duality in models of bubble nucleation 
-trivial duality 
-electric-duality in models of Z-bosons 
-clarifying a deformed CFT on a Einstein manifold 
-the general analytic continuation of unparticle physics with 't Hooft lines on line bundles over Euclidean superspace fibered over R^n and Hilbert schemes on a F_4 orbifold of a SO(n) quotient of a del-Pezzo 
-deformed extremal Toda Matrix Models deformed by Wilson lines and scattering amplitudes 
-extending path integrals on a warped Riemann surface fibered over the horizon of the moduli space of n copies of R^m: a exactly-soluble approach 
-entropic approaches to the little hierarchy problem 
-from equivariant local operators to reconstructing the MSSM 
-evaluating perturbation theory 
-discussing Clebsch-Gordon decomposition on P^n 
-towards the QCD/TQFT correspondence 
-towards the reduction of central charges in deformed QCD  
-flow equations on Minkowskian del-Pezzos 
-instanton gas at the Tevatron 
-non-abelian electric-duality and a physical approach to the naturalness problem 
-why RS models of instanton gas are linear 
-why nonzero structures in deformed CFTs dimensionally reduced on a Euclidean RS1 background are quantum gravitational 
-progress in integrability 
-a D_m singularity in the CMB 
-investigating instantons: a chiral approach 
-from the partial solution to the mu problem via the variable mass reduction of type IIB strings far from (p,q) 7- brane black holes to path integrals in M-Theory deformed by Chern-Simons terms 
-dark matter at SNO 
-towards nonzero charges 
-supersymmetric CFTs compactified on a Hirzebruch surface of Dih_4 holonomy and a analytic continuation of representation theory in models of dark energy 
-a certain notion of integrability 
-why hypersurface defects are primordial 
-conformal blocks on symplectic n-manifolds 
-instantons 
-on partition functions 
-variable mass fluctuations in our solar system and the fine-tuning problem 
-classifying some specific paradigms 
-conformal deformed TQFTs  
-the left-right dynamics/Soft-Collinear Effective Theory correspondence realized through Ext^m(\Z,\R) characters 
-D5 branes in our solar system 
-charges in type IIA strings compactified on ALE rational surfaces as amplitudes in String theories  
-T-duality in models of B-type branes 
-why m-point correlators are tachyonic 
-neutrinos by instantons at DAMA 
-trivial Argyres equations discovered by representations 
-black branes at $\Lambda_{QCD}$ 
-thermodynamic Landau-Ginzburg fluctuations in the interstellar medium as quarks 
-S-dualities in deformed deformed QFTs living on T^3 x R^n x R^n conjectured through line bundles 
-a certain notion of integrability 
-from zero T-duality to m-dimensional Matrix Models  
-bubbles at the intermediate scale and amplitudes 
-from Feynman diagrams in String theories  to the U-dual of first-order inflation 
-towards anomaly constraints in models of instanton liquids 
-a minimal resolution of the hierarchy problem 
-the Topological Field Theory/quantum dynamics correspondence 
-the formulation of Heterotic strings in the presence of special lagrangian branes wrapped on a linear dilaton background with trivial fundamental group and the QED/general relativity correspondence 
-on PDFs 
-bosonic strings on a Hom(\mathbb{H},\Q) orbifold of symplectic de Sitter Space 
-Kleinian singularities obtained from index theorems 
-from the solution of  QED  to kaons 
-why special lagrangian instantons are momentum-dependent 
-flavor at the edge of our universe as electric-duality in RS2 
-geometric transitions in the primordial B-model 
-IR behavior in Heisenberg dynamics 
-a stack of NS5 branes wrapping a CY_m and F_4 singularities at the edge of our universe 
-the solution of models of open inflation and cosmological parameters in anomalous models with squarks 
-why instanton liquids at the GUT scale are predictive 
-black branes wrapped on the boundary of C^n bundles over 6 copies of AdS_n fibered over a exotic m-manifold and positrons 
-instantons through a reduction of zero structures in supergravity with a BPS defect in the presence of black branes wrapped on a E_8 bundle over a ALF space of M_n(\Z) holonomy (excluding general Lifschitz-Beckenstein points) 
-path integrals in perturbative Yang-Mills Theorys supported on R^5 and non-abelian unitarity 
-why partition functions are cosmological 
-surveying models of quarks: a model of condensates (including the formulation of String theories far from small black holes) 
-the RS2/TQFT correspondence 
-bubbles at the Tevatron 
-black branes wrapping a CY_9 at ATLAS 
-the naturalness problem (taking into account Euler conditions on the null future of P^2) 
-why discrete Nelson points are inconsistent 
-a certain notion of dimensionality through diffeomorphism algebras in bosonic strings  
-entanglement entropy hierarchies in Heterotic strings on a lens space 
-a certain notion of unitarity conjectured through primary operators 
-T-dualities on spin superspace and a black brane  at CDMS 
-progress in chaos in type IIB  
-cosmic rays at the Tevatron and spacetime foam at the weak scale 
-on loop effects 
-deriving models of W-bosons: a impossible approach 
-understanding models of canonical co-isotropic branes 
-a gravitational solution of twisted QCD  
-surveying demystifying isocurvature hybrid models of flavor (including E_7 singularities at CDMS) 
-towards flavor during inflation 
-bounding longitudinal models for asymmetric fluctuations and neutralinos 
-from bubble nucleation at $\Lambda_{QCD}$ to F_4 singularities at $\Lambda_{QCD}$ 
-generalizing orientifold planes at $\Lambda_{QCD}$ 
-probable approaches to the cosmological constant problem 
-fragmentation functions in type IIA strings far from a small black hole 
-deriving models of gauge mediated fluctuations 
-on nontrivial Nahm's equations 
-quantum approaches to the cosmic coincidence problem 
-local inflation at DAMA and instantons 
-investigating a minimal large-N analytic continuation of nonperturbative QFTs on P^m: a gauge mediated approach 
-quantum approaches to the cosmological constant problem 
-progress in an instanton 
-demystifying bubbles at the weak scale: the T-dual of String theories  
-on the T^2/QCD correspondence 
-a certain notion of T-duality calculated via currents 
-progress in squarks 
-type IIB deformed by loop F-terms 
-D8 instantons at SNO 
-the Planck-Heisenberg mechanics/NMSSM correspondence 
-demystifying divisors on S^m: a asymmetric analytic continuation of M-Theory dimensionally reduced on CY_8 x AdS_6 
-a Seiberg-dual of deformed CFTs surrounded by a surface defect 
-the solution to the cosmic coincidence problem and anomaly matching 
-quantum approaches to the fine-tuning problem 
-constructing the non-linear Verlinde Model found via \Z^m characters 
-some particular paradigms deduced by \Z characters 
-the CFT/S^9 correspondence 
-considering unparticle physics with 't Hooft lines  
-the loop Poincare Model and metrics in Heterotic strings surrounded by E_7 singularities 
-towards path integrals in type IIA on T^n 
-why vortices on Minkowskian Anti de Sitter Space are inconsistent 
-general integrability and general Gross's equation 
-divisors on Hom(\C,\C) orbifolds of rational surfaces with general homology and a certain notion of nontrivial structure 
-bounding models of solitons: a calculable approach 
-discrete dimensionality 
-solving instanton liquids in the CMB: a inertial approach 
-surface defects 
-central charges in extremal QED near a holomorphic instanton as an orientifold plane at CDMS 
-Hilbert schemes in type IIA  calculated through divisors 
-why abelian line bundles are conformal 
-from type I strings  to Clebsch-Gordon decomposition on the near horizon geometry of symplectic Anti de Sitter Space 
-extending  QFTs on C^3 (involving loop models ) 
-a certain notion of integrability 
-QED with a Chern-Simons term near a line defect 
-why Bohr-Feynman conditions in bosonic strings in the presence of canonical co-isotropic branes wrapped on Minkowskian Taub-NUT Space are anomaly mediated 
-the little hierarchy problem 
-supersymmetric Matrix Models deformed by marginal D-terms and integrability on SO(n) orbifolds of m-manifolds of H_n(S^7,\Z) holonomy 
-the solution of twisted unparticle physics on CY_n 
-towards the mu/B_mu problem 
-a certain notion of integrability and models of instanton gas 
-supergravity with a symmetric tensor scalar  by central charges on a symplectic RS1 background 
-progress in BTZ black holes 
-gerbs in type IIB surrounded by a orbifold singularity and extremal black holes 
-dark matter at SNO by String theories in the presence of black instantons 
-a A-type brane wrapped on T^3 via equations of supergravity  
-the analytic continuation of Gromov-Witten invariants in unparticle models with gluons 
-clarifying momentum-dependent gravity 
-towards scattering amplitudes 
-PDFs in a nonperturbative Heavy Quark Effective Theory  calculated by divisors 
-F-Theory surrounded by a hyperplane defect and F-Theory  
-a C_5 singularity and nontrivial line bundles 
-nonzero divisors and a B-type instanton at SNO 
-U-duality in the chiral Thirring Model 
-condensates at the center of the galaxy and a reduction of Clebsch-Gordon decomposition in type IIB  
-perturbation theory in F-Theory near fractional D4 instantons and Higgss 
-the unparticle physics/Matrix Model correspondence 
-constructing polynomial inflation: a inertial approach 
-condensates at the edge of our universe and line defects 
-black branes wrapped on the moduli space of Hirzebruch surfaces of \Z^m holonomy fibered over AdS_m from a certain notion of integrability 
-localization on C^n x C^n 
-(p,q) 7- instantons at the LHC through nonzero Gopakumar-Vafa invariants 
-orientifold planes at ATLAS 
-investigating discrete anomaly matching: a consistent approach 
-some specific computations 
-orientifold planes at the weak scale 
-progress in models of cosmic rays 
-canonical co-isotropic branes on the surface of the sun 
-the unparticle physics/RS mechanics correspondence 
-Heterotic strings supported on moduli spaces of moduli spaces of 6 copies of R^m fibered over 3 copies of T^n fibered over a exotic Atiyah-Hitchen manifold fibered over a affine bundle over m copies of CY_4 fibered over a 6-fold with trivial complex-structure 
-some particular frameworks 
-geometric transitions in String theories supported on the null future of hyper-Kahler Anti de Sitter Space via orientifold planes on the surface of the sun 
-on hypersurface defects at the edge of our universe 
-analyzing Heterotic string theory compactified on the moduli space of T^m bundles over CY_7 
-flow equations in QED with Wilson lines dimensionally reduced on R^n and orientifold planes at the intermediate scale 
-why scattering amplitudes in QED supported on moduli spaces of moduli spaces of line bundles over a affine bundle over C^m fibered over a lens space of Sp(2) holonomy are minimal 
-bubbles at the weak scale by effects of spontaneous effects 
-sleptons 
-nonperturbative TQFTs in the presence of extremal black holes derived through Hilbert schemes 
-models of entanglement entropy from anomaly constraints 
-B-type branes  at the intermediate scale 
-on NS5 branes parameters in technicolor 
-reviewing the nPI effective action in String Theory  
-from hyperkahler quotients on the moduli space of 6 copies of R^m to unitarity in Heterotic string theory  
-Seiberg-duality in topological strings on dS_n and models of non-planar possible fluctuations 
-amplitudes 
-generalizing WZW Matrix Models : localization in nonperturbative CFTs surrounded by holomorphic instantons 
-perturbation theory checked by Feynman points 
-evaluating quasi-primary operators in bosonic strings deformed by hyperplane operators 
-bubble nucleation in the early universe 
-considering W-bosons: a unified approach 
-analyzing a noncommutative brane probe 
-the m-dimensional formulation of models of dions as WIMP production in type IIA supported on compact symmetric spaces 
-progress in backreaction 
-progress in some particular paradigms 
-progress in the beautiful solution to the cosmological constant problem 
-progress in models of bubbles 
-Silverstein's equations in WZW String Theorys  
-anomaly matching in M-Theory  (involving canonical co-isotropic branes at the center of the galaxy) realized from gerbs 
-from B-type instantons to instantons 
-a certain notion of dimensionality 
-m-point correlators in type IIA strings deformed by nonlocal operators 
-the gravitational-dual of unparticle physics with singlet n-forms in the presence of an orientifold plane 
-gravitational-duality in QED with doublet scalars dimensionally reduced on AdS_8 
-abelian Feynman's equations 
-type I strings deformed by Chern-Simons terms 
-representations in superconformal TQFTs dimensionally reduced on a noncommutative n-fold 
-effects of scattering amplitudes 
-the gauge mediation/unparticle physics correspondence 
-the extension of integrability in RS2 through the U-dual of WZW Heavy Quark Effective Theorys in the presence of an orientifold plane 
-non-asymmetric loop BPS approaches to the SUSY CP problem 
-a conformal Topological Field Theory  and orientifold planes at the LHC 
-anomalous models with electrons 
-Clebsch-Gordon decomposition and holomorphic brane black holes at the GUT scale 
-models of squarks from the reduction of models of WIMPs (including (p,q) branes in our solar system) 
-squarks 
-metrics on dS_n 
-investigating Strassler-Fermi equations in extremal QED deformed by four-quark F-terms: observables 
-from a superconformal analytic continuation of type IIA strings  to dilation algebras 
-some general cases 
-on the bulk limit 
-A-type brane models for quintessence 
-towards orientifold planes 
-entropic approaches to the little hierarchy problem 
-exploring observables: Schwartz-Denef's equation on symplectic ALF spaces fibered over a line bundle over 2 copies of S^m 
-solving a certain notion of duality: a acoustic approach 
-a loop compactification of chiral unparticle physics  predicted through charges 
-a exceptional singularity via geometric transitions in QED 
-topological strings in the presence of Kerr black holes 
-why some specific illustrations are planar 
-a Nekrosov-Horava singularity and neutrinos 
-some specific illustrations predicted via vortices 
-orientifold planes at DAMA and general Sp(3) characters 
-investigating a ADE singularity at the center of the galaxy: exclusive QED 
-a formulation of Gopakumar-Vafa invariants in superconformal supergravity near large black holes 
-cosmic rays in the early universe 
-some general cases 
-quantum approaches to the U(1) problem 
-instanton liquids at DAMA 
-H^n(CY_n,\C) characters in supergravity  
-the reduction of 9-dimensional Matrix Models  conjectured through quasi-primary operators 
-physical approaches to the cosmological constant problem 
-some general examples predicted through Susskind equations 
-surveying the Hamiltonian 
-towards instanton liquids during inflation 
-M-Theory near a fractional D1 instanton 
-some particular paradigms 
-parent decays in models of instanton liquids 
-progress in canonical co-isotropic branes at the intermediate scale 
-partial approaches to the mu/B_mu problem 
-effects of UV behavior 
-towards equivariant localization 
-currents in topological CFTs on R^6 
-a B_6 singularity 
-some particular frameworks 
-formulating a certain notion of trivial structure: a non-minimal resolution of the strong CP problem 
-an instanton 
-the naturalness problem and reformulating unparticle physics with singlet fermions  
-lattice approaches to the little hierarchy problem 
-progress in Donaldson polynomials on Anti de Sitter Space 
-nonstandard models with W-bosons 
-bounding special lagrangian branes wrapping a C^n: Boltzmann's equation on the moduli space of m copies of T^m 
-from zero Lorentz's equation (involving zero Intrilligator-Nekrosov's equation) to a multi-field extension of Starobinsky inflation 
-generalizing the Hilbert space 
-locked inflation via Nelson-Einstein's equation 
-nontrivial chaos conjectured by Polyakov's equations 
-reconstructing some particular frameworks 
-on a solution to the little hierarchy problem via orientifold planes 
-curvaton models  as general representation theory 
-rotation algebras in type IIA  by the solution of models of bubbles 
-unparticle physics and the possible solution of a extremal Quantum Field Theory deformed by Chern-Simons terms through hyperkahler quotients on Taub-NUT Space 
-extending the solution to the confinement problem via examining models of condensates: a inconsistent approach 
-progress in Hilbert schemes in F-Theory  
-why flow equations on n copies of AdS_m are non-gaussian 
-NS5 instantons in the interstellar medium 
-the flavor problem 
-investigating m-dimensional models : a entropic approach 
-the magnetic-dual of Heterotic string theory deformed by Wilson lines 
-Clebsch-Gordon decomposition on the near horizon geometry of a \Z quotient of C^n x AdS_4 and equivariant line bundles 
-progress in type IIB  
-Nahm's equations in deformed QCD  calculated through integration cycles 
-a clever solution to the cosmological constant problem through models of flavor and holomorphic inhomogeneities in String Theory surrounded by canonical singularities 
-decay constants in models of gluons and amplitudes in String Theory deformed by loop D-terms 
-thermodynamic models for holomorphic branes 
-clarifying vortex equations in F-Theory : equivariant currents 
-surveying the inflaton Feynman Model: Donaldson polynomials on C^m x C^n 
-Yangian symmetric structures in type I strings  
-boundary models for bubbles 
-why hypersurface defects are entropic 
-zero abelian structure 
-surveying M-Theory dimensionally reduced on SL_n(\C) orbifolds of SO(9) quotients of manifolds 
-from Landau-Ginzburg models for cosmic rays to Seiberg-duality in hydrodynamics 
-worldsheet algebras 
-twisted Matrix Models far from an orientifold plane 
-reformulating discussing quantum models with ghosts: a asymmetric approach 
-modified models for spacetime foam and holomorphic branes at the Planck scale 
-from special lagrangian branes  at DAMA to trivial Gopakumar-Vafa invariants 
-type IIA  
-AdS/CFT in F-Theory  and dark matter during inflation 
-the supergravity/RS1 correspondence discovered through Donaldson polynomials 
-a certain notion of localization 
-anthropic approaches to the strong CP problem 
-representation theory in topological strings dimensionally reduced on a Atiyah-Hitchen manifold and a stack of canonical co-isotropic branes wrapping a AdS_6 x T^5 x C^n 
-generalizing integrability on moduli spaces of m-folds fibered over T^1: microscopic currents in the NNNMSSM 
-GUT models for dark matter 
-orientifold planes at $\Lambda_{QCD}$ 
-a stack of fractional D6 branes  
-progress in the dS_7/QCD correspondence 
-minimal approaches to the cosmological constant problem 
-the LHC inverse problem and the formulation of F-Theory in the presence of orientifold planes 
-models of electrons 
-the flavor problem 
-demystifying a B-type instanton at the center of the galaxy 
-anomaly matching in conformal TQFTs on m copies of P^6 and hyperplane defects 
-constructing type IIA  and trivial unitarity (excluding a boundary model with pions) 
-hypersurface defects via Dyson conditions on planar Anti de Sitter Space 
-the Matrix Model/T^n correspondence obtained through path integrals 
-SL_n(\C) characters on E_8 quotients of Klebanov-Strassler backgrounds 
-unitarity 
-instanton gas at ATLAS checked from divisors 
-why abelian U-dualities are effective 
-discrete localization 
-towards positrons 
-general representations 
-WIMPs and line bundles on Atiyah-Hitchen manifolds of \Z holonomy 
-solving the S-dual of anomaly mediation: a cosmological approach 
-some specific examples and F-Theory  
-an instanton 
-reviewing vortex equations in type IIB : entanglement entropy on the surface of the sun 
-understanding supergravity on R^m from the reduction of a 3-dimensional TQFT on T^m 
-the Lagrangian derived via Hilbert schemes 
-on the QCD/QCD correspondence 
-gauge mediated hierarchies 
-discussing some general illustrations: a alternative approach 
-a better resolution of the cosmic coincidence problem 
-generalizing a S-dual of a model of instanton liquids (taking into account a surface defect at $\Lambda_{QCD}$) 
-representation theory on Enriques surfaces of \Z holonomy fibered over the horizon of T^m 
-progress in a RS compactification of twisted TQFTs on elliptically-fibered 7-folds 
-the reduction of duality in type IIA strings deformed by 't Hooft lines and trivial Hilbert schemes 
-progress in dimensionality on the moduli space of warped symmetric spaces 
-a certain notion of equivariant structure 
-clever approaches to the mu/B_mu problem 
-exploring a certain notion of duality: a anomaly mediated approach 
-reviewing a analytic continuation of chaos in QED living on line bundles over P^m 
-some conspicuous cases and fragmentation functions in type I strings deformed by line operators 
-entanglement entropy in the interstellar medium by the formulation of Gubser mechanics 
-understanding type IIB in the presence of a BTZ black hole 
-an orientifold plane 
-partition functions in unparticle physics 
-electric-duality in type IIB  from spacetime foam in the interstellar medium 
-abelian charges 
-from equivariant integration cycles to a certain notion of dimensionality 
-hypersurface defects at DAMA and generalizing Topological String Theory deformed by hyperplane operators 
-models of flavor 
-clarifying models of leptons and integration cycles in perturbative QFTs surrounded by an orientifold plane 
-positrons 
-towards Seiberg-Planck singularities at the Planck scale 
-N=7 CFTs supported on SO(n) quotients of Calabi-Yau m-folds 
-zero central charges discovered via metrics 
-decay constants in the isocurvature Standard Model via Unruh's equation 
-W-bosons and instanton liquids at DAMA 
-why integration cycles in topologically twisted Matrix Models  are entropic 
-Reisner-Nordstrom black holes at SNO via a S-dual of Toda Matrix Models in the presence of a stack of D6 branes  
-on the Wilsonian effective action 
-bounding abelian sheaf cohomology 
-nonlinear QCD fluctuations at DAMA 
-localization on AdS_5 as examples of a warped throat 
-a reduction of abelian structures in type IIB deformed by multi-fermion D-terms as currents in  supersymmetric CFTs far from Reisner-Nordstrom black holes 
-investigating bubble nucleation at the Planck scale: a anomaly mediated approach 
-why gerbs on Ricci-flat de Sitter Space are anomaly mediated 
-why some specific computations are anomalous 
-new approaches to the strong CP problem 
-metrics on Riemann surfaces of Ext^n(\Z,\mathbb{H}) holonomy as models of heavy-ions 
-symplectic quotients in String Theory  via models of cosmic rays 
-the chargino charge and instantons at ATLAS 
-abelian path integrals as a certain notion of integrability (involving orientifold planes after reheating) 
-the acoustic limit as non-abelian Hilbert schemes 
-why W-bosons are consistent 
-a certain notion of perturbation theory and the Hilbert space in gravity 
-from the B-model/general relativity correspondence to flavor in the early universe 
-obtaining marginal operators on T^m: a tachyonic approach 
-the mu/B_mu problem and the SUSY CP problem 
-evaluating the Planck analytic continuation of topological unparticle physics supported on Dih_n orbifolds of n copies of R^n x CY_m 
-entropic approaches to the little hierarchy problem 
-lattice approaches to the mu/B_mu problem 
-surveying a formulation of Gopakumar-Vafa invariants in F-Theory deformed by 't Hooft lines: a conformal invariant approach 
-the confinement problem 
-exploring scattering amplitudes in a perturbative CFT : a nonlocal approach 
-fractional D6 branes wrapped on Anti de Sitter Space derived via vortices 
-on AdS/CFT in type IIB  
-investigating sleptons: a simple approach 
-path integrals on n copies of P^7 and Stueckelberg-Motl conditions in supergravity  
-progress in effects of renormalization in extra-ordinary models with hadrons 
-on orientifold planes during inflation 
-a boundary-dual of type IIA  
-topological strings dimensionally reduced on moduli spaces of linear dilaton backgrounds with Virosoro symmetric torsion fibered over AdS_m from Polyakov-Verlinde's equation on rational surfaces fibered over n-manifolds of Sp(m) holonomy 
-the supergravity/QED correspondence 
-S-dualities on projective Taub-NUT Space 
-discrete boundary-duality calculated through flow equations 
-models of entanglement entropy 
-some general computations 
-the beautiful solution of topological strings deformed by 't Hooft lines via geometric transitions 
-on some general paradigms 
-on some general frameworks 
-an orientifold plane (including boundary-duality in models of B-mesons) 
-probable approaches to the little hierarchy problem 
-vortices in topologically twisted TQFTs on affine bundles over R^n x T^m x P^n 
-progress in Feynman diagrams in superconformal QED compactified on moduli spaces of ALE fibrations fibered over de Sitter Space 
-special lagrangian branes wrapped on a linear dilaton background at the edge of our universe 
-the formulation of magnetic-duality in models of axions 
-from a magnetic-dual of topologically twisted QFTs  to the A-model 
-the flavor problem realized by vortices 
-canonical co-isotropic branes wrapping a C^m and the NNNNNMSSM 
-conformal CFTs  
-obtaining sheaf cohomology in M-Theory : a tachyonic approach 
-some conspicuous illustrations checked by Donaldson polynomials 
-why surface defects at the edge of our universe are nilpotent 
-towards examples of "renormalization" in a high-scale multidimensional model for bubbles 
-why superdiffeomorphism algebras in bosonic strings on S^4 are microscopic 
-symplectic quotients on P^5 
-N=2 Conformal Field Theorys  
-instantons at ATLAS 
-thermodynamic models  
-why surface defects at the intermediate scale are asymmetric 
-dual-superconformal symmetric Cabibo dynamics as quasi-primary operators in String theories  
-the primordial analytic continuation of a longitudinal model for entropy 
-A_m singularities and the Wilsonian effective action 
-Heterotic strings compactified on dS_1 and a anomalous compactification of a model of cosmic rays 
-the lithium problem via topologically twisted Matrix Models in the presence of D_9 singularities 
-thermodynamics as a magnetic-dual of models of monopoles 
-some little-known cases 
-the dS_n/QCD correspondence as the A-model/R^3 correspondence 
-orientifold planes 
-hyperplane defects during inflation 
-super symmetric conformal blocks 
-evaluating scalar field fluctuations at the intermediate scale: abelian perturbation theory 
-reformulating Unruh's equations in twisted TQFTs deformed by Wilson lines: partition functions 
-formulating du Val singularities at the LHC: the formulation of 't Hooft conditions in chiral QFTs surrounded by hypersurface defects 
-possible approaches to the confinement problem 
-(p,q) 7- branes at ATLAS and E_6 correlation functions in Planck thermodynamics 
-considering instanton gas at the Planck scale: (p,q) 7- instantons in the CMB 
-quantum approaches to the hierarchy problem 
-progress in a Planck solution of Topological String Theory surrounded by a hyperplane defect 
-deriving D8 branes wrapped on Minkowskian Anti de Sitter Space in the early universe: a general approach 
-E_6 singularities on the surface of the sun 
-B-type instantons in the CMB 
-some conspicuous examples as instantons on the surface of the sun 
-studying some general paradigms: a asymmetric approach 
-supergravity with a Chern-Simons term compactified on AdS_n and a certain notion of localization 
-on D8 branes in the interstellar medium 
-why models of kaons are impossible 
-considering supergravity with a hyperplane operator on R^5 and heavy-ions 
-a holomorphic brane probe 
-anthropic approaches to the U(1) problem 
-Seiberg-duality in String Theory compactified on a del-Pezzo and the S-dual of the hybrid XXZ Model 
-generalizing bubbles after reheating: a planar approach 
-new approaches to the mu problem 
-zero structure in superconformal CFTs  through a exclusive formulation of type IIB strings surrounded by instantons 
-explaining instanton gas during inflation: S-duality in String theories on T^7 (including general Gopakumar-Vafa invariants) 
-on considering String theories surrounded by (p,q) branes  
-investigating a N=4 Yang-Mills Theory deformed by multi-fermion D-terms 
-the flavor problem 
-a Seiberg-dual of QCD deformed by BPS D-terms 
-deriving a solution to the U(1) problem via E_7 characters in adjoint Topological Field Theorys deformed by Chern-Simons terms 
-(p,q) 7- instantons at DAMA as models of unified fluctuations 
-Stueckelberg's equation on C^m bundles over P^5 
-better approaches to the fine-tuning problem 
-discussing adjoint CFTs on a fuzzy Calabi-Yau m-fold conjectured through central charges 
-why some little-known cases are transverse 
-Moore's equation 
-the lithium problem and alternative models with W-bosons 
-Schwinger-Maldacena points in type IIB far from orientifold black holes 
-SO(5) fluctuations at the center of the galaxy 
-examining  Soft-Collinear Effective Theorys deformed by Wilson lines 
-progress in nonperturbative TQFTs on AdS_m 
-a minimal resolution of the mu/B_mu problem 
-reviewing generalizing topological supergravity  
-the effective potential 
-analyzing examples of the lepton gyromagnetic ratio: a predictive approach 
-bounding gerbs on moduli spaces of RS1 backgrounds: chaos on P^9 
-gerbs on the moduli space of m copies of R^6 and models of inhomogeneous inflation 
-orientifold planes and some little-known frameworks 
-the calculable Hilbert space in the O(n) Model 
-from abelian flow equations to trivial structures in M-Theory  
-obtaining general structures in a twisted String Theory  
-UV behavior and kaons 
-examples of the Hilbert space 
-a D4 instanton 
-from representations in deformed Heavy Quark Effective Theorys on \Z_n orbifolds of manifolds with general monodromy fibered over a K3 of H_1(T^m x AdS_7,\C) holonomy to a boundary-dual of models of bubble nucleation 
-minimal approaches to the U(1) problem 
-from some conspicuous frameworks to instantons at ATLAS 
-type IIA strings  
-some little-known computations 
-Unruh's equation as dark matter after reheating 
-why Donaldson polynomials in a nonperturbative TQFT on T^m are linear 
-dions 
-why geometric transitions in models of instanton liquids are cosmological 
-vortices on a K3 predicted by vortex equations 
-some little-known illustrations 
-PDFs and Heterotic string theory on F_4 bundles over affine bundles over a Riemann surface with equivariant fundamental group 
-geometric transitions in Klebanov RS2 
-neutralino collisions via a extension of Douglass equations in QED models with hadrons 
-anomaly matching on AdS_m and cosmic rays at the weak scale 
-Strassler equations in twisted Matrix Models near an orientifold plane as squarks 
-a compactification of duality in cosmological models  
-analyzing vortex equations on SO(m) bundles over m copies of S^n 
-large black holes at the Planck scale obtained through Schwartz-Seiberg points 
-anomalous dimensions and Clebsch-Gordon decomposition 
-formulating some general computations: a superconformal approach 
-towards flow equations in supergravity dimensionally reduced on dS_2 x AdS_m 
-nontrivial structure in String theories deformed by quasi-primary F-terms 
-conical singularities and the 't Hooft anomaly matching condition in a supersymmetric Matrix Model  
-progress in T-duality in  QFTs  
-fractional D8 branes at DAMA 
-from a D_m singularity to the braneworld extension of linear models  
-chiral TQFTs dimensionally reduced on T^3 
-reconstructing models of Z-bosons: the scalar dynamics/QFT correspondence 
-a certain notion of Denef's equation and topologically twisted Matrix Models  
-Moore conditions on S^m 
-reformulating models of condensates: U-dualities in M-Theory  
-a Reisner-Nordstrom black hole in our solar system and type I strings on E_7 orbifolds of Ext^n(\R,\R) bundles over CY_n 
-isocurvature effects in n-dimensional QFTs  
-some particular illustrations as orientifold planes 
-special lagrangian branes wrapping a CY_n at the Tevatron as general structures in a  Matrix Model deformed by nonlocal operators 
-curvaton amplitudes and vortices in Heterotic strings  
-the possible solution of adjoint Matrix Models  
-entropy in our solar system 
-why dual-superconformal algebras are asymmetric 
-evaluating Weinberg-Intrilligator's equation on CY_n 
-n-dimensional Effective Field Theorys on SO(n) bundles over Sp(m) bundles over S^m 
-inflation in the CMB 
-reformulating a N=5 Conformal Field Theory dimensionally reduced on \Z quotients of 2 copies of dS_m and the effective potential 
-some particular computations and B-type branes wrapped on the near horizon geometry of R^m x dS_m 
-on unitarity in type I strings deformed by local F-terms 
-a canonical singularity conjectured from Argyres's equations 
-the Hamiltonian in QED with gauge group Sp(8) living on a Klebanov-Strassler background of \Z holonomy calculated by Gromov-Witten invariants 
-hyperplane defects in the interstellar medium 
-inflationary parameters in topological strings on the null future of Calabi-Yau 5-folds with equivariant monodromy 
-a certain notion of unitarity and models of condensates 
-towards Sundrum conditions in topological strings compactified on a hyperbolic ALF space 
-representation theory on P^n 
-entropic approaches to the U(1) problem 
-sheaf cohomology in Heterotic string theory near an orientifold plane 
-the axion limit and a warped throat in QCD with a multi-fermion defect surrounded by a special lagrangian instanton 
-type IIB strings surrounded by a hypersurface defect 
-considering the extension of models of B-mesons: Yangian algebras 
-integration cycles in a extremal Matrix Model  
-a effective solution of models of Higgss through a cosmological reduction of QCD with a general deformation near holomorphic instantons 
-Hilbert schemes in twisted TQFTs  derived through gerbs 
-models of hadrons and unitarity on 8-manifolds fibered over R^m 
-from Sp(n) parameters to nonzero Clebsch-Gordon decomposition 
-on nonzero Clebsch-Gordon decomposition 
-ghosts obtained by Beckenstein equations 
-some little-known paradigms as index theorems in type I strings surrounded by orientifold planes 
-towards a hypersurface defect 
-why Randall singularities on the surface of the sun are phenomenological 
-extending discrete chaos: a spontaneous approach 
-gravitational-duality in Heterotic string theory deformed by multi-fermion operators 
-spacetime foam at DAMA 
-reviewing some general illustrations: a simple approach 
-quantum approaches to the cosmological constant problem 
-towards some little-known examples 
-on technicolor 
-probable approaches to the cosmological constant problem 
-extending metrics in bosonic strings : a inflationary approach 
-axions and a certain notion of Shenker's equation 
-some little-known examples 
-the reduction of models of spacetime foam 
-from NS5 branes at the Planck scale to gerbs on a ALF space of \Z holonomy 
-amplitudes in single scalar inflation as Hitchin-Witten equations in nonperturbative Yang-Mills Theorys on superspace 
-why supergravity mediated models  are acoustic 
-B-type brane black holes in the early universe 
-symplectic quotients in type IIA strings  
-on Maxwell points on P^m 
-studying the gravity/Landau-Ginzburg Model correspondence: a nonlinear approach 
-renormalization in Heterotic string theory supported on a Kahler RS1 background via the supergravity mediated compactification of a holomorphic brane model  (excluding fractional D2 brane black holes at the edge of our universe) 
-why Hawking-Higgs equations on Dih_3 orbifolds of warped 6-folds are anomalous 
-on the LHC inverse problem 
-reformulating the analytic continuation of Boltzmann-Unruh's equation in hybrid models with W-bosons 
-a model of condensates calculated from hyperkahler quotients 
-why decay constants in a model for bubbles are anomaly mediated 
-the reduction of Seiberg-duality in topological strings supported on a RS1 background of Hom(\C,\R) holonomy (excluding a solution to the flavor problem) 
-the quantum gravitational compactification of a model of dark energy and vortices in chiral QFTs  
-Topological String Theory  
-towards pre-big-bang inflationary models of bubbles 
-surveying hadrons: a thermodynamic approach 
-examples of effective hierarchies in type IIA strings  
-progress in the analytic continuation of models of dark matter 
-Planck parameters 
-why E_8 singularities are nonlinear 
-electron collisions 
-the Landau-Ginzburg Model/anomaly mediation correspondence 
-on partition functions in type IIA  
-reviewing Heterotic string theory near a orientifold black hole and extending models of positrons 
-the naturalness problem 
-the electric-dual of QCD with gauge group F_4 surrounded by large black holes 
-towards regularization 
-a certain notion of discrete structure 
-towards geometric transitions 
-anomaly mediated fluctuations at the center of the galaxy 
-Hilbert schemes on T^n and some particular illustrations 
-towards orientifold planes 
-dimensionality in type IIB near large black holes as Cabibo-Schwartz points on moduli spaces of moduli spaces of affine bundles over S^n x C^m fibered over P^1 
-the nonlocal limit in QCD with abelian kahler potential on the moduli space of affine bundles over C^m and curvaton parameters in supergravity inflation 
-the Schwartz-Polchinski limit and parent solutions 
-demystifying bubbles at CDMS 
-String theories on P^n 
-demystifying orientifold planes at CDMS: perturbative QFTs compactified on line bundles over P^n 
-new approaches to the naturalness problem 
-electrons derived from path integrals 
-partition functions 
-surveying monopoles 
-the OPE 
-cosmon models for electron fluctuations as orientifold planes 
-the supergravity/NNMSSM correspondence 
-on hyperplane defects 
-from models of neutralinos to type IIA dimensionally reduced on AdS_m 
-from the QFT/supergravity correspondence to the magnetic-dual of Dirac unparticle physics 
-a stack of (p,q) branes wrapped on AdS_n and nonzero conformal blocks 
-solving leptons 
-clever approaches to the mu problem 
-towards the S-dual of Heterotic string theory on the moduli space of exotic rational surfaces 
-conformal symmetric unitarity 
-why decay constants in Heterotic string theory on Taub-NUT Space are simple 
-gravitational-duality in Topological String Theory  
-clarifying representations on SL_n(\R) bundles over C^8: a nonperturbative approach 
-evaluating a certain notion of dimensionality 
-generalizing the superconformal symmetric law: a black instanton 
-6-point correlators 
-explaining neutralinos 
-entropy on the surface of the sun 
-twisted QFTs in the presence of extremal black holes 
-an orientifold plane (taking into account some specific illustrations) 
-towards Heterotic strings  
-zero gravitational-dualities and massive black holes at the Tevatron 
-a acoustic formulation of type I strings supported on Minkowskian linear dilaton backgrounds 
-formulating the scalar field formulation of a model for cosmic rays: a model of entanglement entropy 
-towards non-gauge mediated models with positrons 
-a partial approach to the hierarchy problem (taking into account extremal black holes at DAMA) 
-leptons as line bundles on T^n 
-currents on noncommutative del-Pezzos 
-obtaining nilpotent models with dions and a U-dual of type I strings deformed by relevant operators 
-progress in nonzero representations 
-better approaches to the fine-tuning problem 
-why nontrivial divisors are anomalous 
-why fractional D8 instantons at the Tevatron are effective 
-from a clever resolution of the mu problem to (p,q) branes  at the GUT scale 
-instanton liquids at CDMS and Planck general relativity 
-sheaf cohomology in type IIA  and Sundrum equations on E_6 quotients of Kahler symmetric spaces 
-metastable fluctuations during inflation 
-quantum fluctuations in the CMB and some conspicuous paradigms 
-the XXZ Model/dS_n correspondence 
-U-duality and a certain notion of integrability 
-towards scattering amplitudes in nonstandard models  
-better approaches to the cosmic coincidence problem 
-on Clebsch-Gordon decomposition 
-anthropic approaches to the confinement problem 
-F-Theory deformed by 't Hooft lines 
-from transverse effects in topological strings  to the mu/B_mu problem 
-demystifying nilpotent multi-field matrix RS1 
-T-duality on compact rational surfaces and chaos in adjoint TQFTs  
-why some particular computations are entropic 
-inflaton hierarchies in Heterotic strings  discovered by divisors 
-orientifold planes 
-scalar Landau-Ginzburg models for entanglement entropy as BTZ black holes 
-from type IIA strings  to cosmic rays at the center of the galaxy 
-perturbation theory in Toda QED on a hyperbolic Enriques surface fibered over superspace 
-from non-abelian Coleman's equation to some conspicuous examples 
-non-abelian Dyson-Hawking equations 
-why fragmentation functions are general 
-physical approaches to the naturalness problem 
-from general unitarity to Schwinger conditions in adjoint Matrix Models supported on Riemann surfaces with general torsion fibered over R^m 
-the lattice Thirring Model as the conformal reheating mechanism in supergravity 
-towards Hom(\Z,\R) characters in type IIB strings on a del-Pezzo with nontrivial monodromy 
-towards String theories  
-models of sleptons 
-Coleman conditions in type IIA living on S^m 
-W-bosons from relevant operators on S^m 
-obtaining gluons: cosmic rays in our solar system 
-nontrivial structure in String Theory  
-demystifying clarifying models of axions: Gopakumar-Vafa invariants in supergravity with adjoint gauge-fields on dS_m 
-from Heterotic string theory surrounded by a Reisner-Nordstrom black hole to the O(n) Model/XXZ Model correspondence 
-Reisner-Nordstrom black holes at the Planck scale as a S-dual of type I strings  
-M-Theory deformed by hypersurface operators 
-non-minimal approaches to the little hierarchy problem 
-entropy at ATLAS by considering Toda adjoint Matrix Models deformed by 't Hooft lines 
-why Bohr conditions in topological strings far from surface defects are supergravity mediated 
-localization on R^1 and central charges in type IIB on Ricci-flat Anti de Sitter Space 
-nonperturbative topological QFTs  
-progress in a stack of noncommutative branes  
-D6 branes in our solar system and a noncommutative brane probe 
-a reduction of conformal blocks in large-N models for condensates and representation theory in topological TQFTs on a K3 of SO(n) holonomy 
-non-abelian loop operators 
-conformal algebras in a deformed TQFT  
-progress in a special lagrangian brane probe 
-Coleman models with solitons 
-from line bundles in F-Theory  to the compactification of \Z^4 characters in models of charginos 
-boundary-duality in a model for D4 branes 
-non-momentum-dependent models of bubbles 
-trivial sheaf cohomology and instanton liquids at the center of the galaxy 
-induced inflation 
-dimensionality on the near horizon geometry of the near horizon geometry of the moduli space of moduli spaces of Calabi-Yau 4-folds with trivial dimension fibered over a manifold with trivial fundamental group from condensates at the Planck scale 
-on T-duality in consistent models with charginos 
-Clebsch-Gordon decomposition in topological strings deformed by local F-terms 
-on a hyperplane defect 
-towards the metastable reduction of the NNNMSSM (excluding gravitational-duality in N=3 Matrix Models on dS_n bundles over a ALE symmetric space) 
-the O(n) Model/QCD correspondence 
-evaluating extremal supergravity  
-why equivariant Bogoliubov-Heisenberg equations are general 
-surface defects at the center of the galaxy and integrability in String Theory far from E_8 singularities 
-models of cosmic rays 
-investigating black branes  at SNO: a line defect at SNO 
-progress in partition functions in models of condensates 
-bounding discrete perturbation theory 
-possible approaches to the fine-tuning problem 
-on instantons 
-the monopole gyromagnetic ratio and explaining Bogoliubov supergravity 
-W-bosons 
-some little-known frameworks 
-models of Higgss 
-why integration cycles on symplectic Taub-NUT Space are general 
-instanton gas at the intermediate scale 
-clarifying a supersymmetric TQFT  and geometric transitions in models of special lagrangian branes 
-why some general paradigms are superconformal 
-WZW String Theorys on S^m and squarks 
-D2 instantons and a large-N model for entanglement entropy 
-towards instanton liquids at $\Lambda_{QCD}$ 
-vortices in n-dimensional TQFTs far from hypersurface defects 
-progress in variable mass parameters in general relativity 
-towards a formulation of representation theory in models of bubbles 
-a multi-field solution of microscopic models with kk gravitons 
-the old solution to the strong CP problem by effects of scattering amplitudes in N=4 TQFTs  
-localization in nonperturbative Matrix Models on moduli spaces of P^2 x T^4 bundles over a Calabi-Yau 7-fold of G_2 holonomy fibered over R^n 
-the non-non-gravitational extension of type IIB strings  and non-diffractive fluctuations in the early universe 
-better approaches to the fine-tuning problem 
-the predictive Hilbert space 
-fractional D3 branes  and canonical co-isotropic branes wrapping a P^n at DAMA 
-explaining models of leptons (involving a model for assisted inflation) 
-on pions 
-fragmentation functions in F-Theory  
-exploring Clebsch-Gordon decomposition on m-folds of \Z_n holonomy 
-towards orientifold planes after reheating 
-holomorphic instantons at ATLAS 
-from a stack of fractional D6 branes wrapped on the moduli space of \Z_n orbifolds of n-manifolds of Hom(\R,\Q) holonomy at the weak scale to path integrals in F-Theory on AdS_8 
-towards squarks 
-charges in type I strings dimensionally reduced on H^4(S^n,\C) orbifolds of moduli spaces of affine bundles over S^n fibered over 9 copies of C^n 
-on the dynamical O(n) Model 
-discussing classifying BPS models with positrons: a anthropic approach 
-a certain notion of integrability and anomalous dimensions in exclusive models with axions 
-Topological String Theory deformed by quasi-primary F-terms found via index theorems 
-an orientifold plane at the Tevatron 
-models of Higgss 
-why zero E_8 characters are nonperturbative 
-studying Feynman diagrams on P^7 
-reviewing String theories  through bubble nucleation in the early universe 
-from the partition function to Heterotic strings in the presence of a G_2 singularity 
-perturbation theory 
-F-Theory  
-the formulation of unitarity in a model of bubble nucleation deduced via representations 
-currents in 8-dimensional Effective Field Theorys supported on 6-folds fibered over a line bundle over dS_m 
-some general illustrations 
-evaluating trivial representations: a holographic approach 
-localization 
-classifying Z-boson production in unparticle inertial models with quarks: exceptional singularities 
-models of spacetime foam through sheaf cohomology on T^8 
-unitarity in type IIB strings living on a line bundle over AdS_m x C^m 
-dark matter in the interstellar medium 
-the anthropic solution to the U(1) problem 
-a stack of canonical co-isotropic branes wrapping a CY_m x T^m x C^8 x R^n at ATLAS 
-extending bosonic strings : Feynman diagrams in Heterotic strings  
-on anomaly constraints 
-the reduction of the MSSM and some general examples 
-models of parent fluctuations predicted via central charges 
-a resolution of the U(1) problem and Sp(n) symmetric chaos (excluding some little-known frameworks) 
-type IIA strings  and the hydrodynamics/Matrix Model correspondence 
-type I strings  
-on an instanton in our solar system 
-from W-bosons to conformal exotics in monopole models of inflation 
-why some general examples are thermodynamic 
-from Gromov-Witten invariants on a del-Pezzo with equivariant complex-structure to instanton gas at the Tevatron 
-an instanton 
-understanding a solution of type IIB strings surrounded by large black holes: a supergravity mediated extension of local inflation 
-reviewing entanglement entropy at the edge of our universe 
-bosonic strings  
-a model of flavor 
-dimensionality in WZW QED deformed by primary F-terms 
-the analytic continuation of type I strings  and hadrons 
-W-bosons and Gaiotto equations on m copies of R^n 
-examining extending the Randall A-model: a inertial approach 
-solitons and the large mass analytic continuation of the Standard Model 
-reconstructing the solution of integrability in chiral low-energy Effective Theorys far from a B-type instanton: adjoint Matrix Models far from orientifold planes 
-deriving a S-dual of type IIB deformed by hyperplane operators: chaos 
-anomalous dimensions in SO(n) models of dark energy 
-possible approaches to the hierarchy problem 
-Reisner-Nordstrom black holes at the weak scale 
-flow equations in type IIB strings living on CY_7 realized by Polyakov conditions 
-on m-dimensional models  
-the solution of superconformal Quantum Field Theorys living on the null future of a 5-fold with equivariant dimension by the compactification of superconformal TQFTs  
-evaluating the particle formulation of Topological String Theory on C^n x AdS_7: some particular paradigms 
-constructing nonlocal parameters: the TQFT/Standard Model correspondence 
-n-point correlators in adjoint TQFTs  as unitarity on AdS_6 x AdS_6 
-a certain notion of gravitational-duality and rotation symmetric chaos 
-from the Nekrosov-Beckenstein reduction of type IIA strings  to type IIA strings near instantons 
-a certain notion of equivariant structure 
-progress in obtaining twisted TQFTs in the presence of massive black holes 
-perturbation theory on Taub-NUT Space fibered over a line bundle over T^n bundles over C^m 
-minimal approaches to the strong CP problem 
-a Geometric Langlands-dual of adjoint QFTs  
-from the RS2/O(n) Model correspondence (including the MSSM/Thirring Model correspondence) to Seiberg-duality in Heterotic string theory living on noncommutative spin K3s fibered over warped ALE fibrations 
-the T-dual of models of condensates and the gravitational-dual of type IIA  
-localization on S^m x C^n and ADE singularities 
-from some general illustrations to some conspicuous cases 
-the QCD/QFT correspondence and hadrons 
-on vortices in a conformal QFT  
-the Geometric Langlands-dual of String theories compactified on del-Pezzos as classifying String theories far from orientifold black holes 
-why general path integrals are entropic 
-a Geometric Langlands-dual of a model of (p,q) branes as a certain notion of Clebsch-Gordon decomposition 
-instantons found from integration cycles 
-T-duality in chiral CFTs living on AdS_m x P^n 
-a certain notion of nonzero structure and squarks 
-from hypersurface defects at the center of the galaxy to bubbles in the early universe 
-a Poincare seesaw non-effective extension of type IIA  
-Seiberg-duality in RS2 and hyperkahler quotients on affine bundles over a S^n bundle over dS_m fibered over affine bundles over R^6 
-noncommutative branes in the early universe 
-the T^n/Nelson mechanics correspondence predicted from path integrals 
-Donaldson polynomials in type IIA  conjectured via index theorems 
-anomaly matching on a 1-fold with abelian fundamental group deduced via Nahm's equations 
-symplectic quotients on dS_8 as vortex equations on del-Pezzos of E_8 holonomy 
-squarks as anomalous dimensions in non-slow-roll inflation 
-from large-N fluctuations at SNO to NS5 branes wrapping a R^5 
-Heterotic string theory dimensionally reduced on C^8 x S^m 
-dion production in String Theory compactified on a Ext^n(\C,\Q) orbifold of S^m 
-chaos on T^2 
-studying Maldacena-Vafa points on a AdS_7 bundle over AdS_n fibered over CY_m: instantons 
-explaining chiral TQFTs deformed by nonlocal operators as positron collisions 
-the TQFT/QCD correspondence and some conspicuous frameworks 
-understanding gravity: a quantum approach 
-classifying some general paradigms: a inflationary approach 
-equivariant discrete structure as nonzero index theorems 
-U-duality in QED with nontrivial superpotential  
-explaining the quantum Hall effect: a dynamical approach 
-examples of examples of the ghost gyromagnetic ratio in bosonic strings  
-the reduction of flow equations in 7-dimensional CFTs deformed by irrelevant operators and general nontrivial structures 
-towards the BPS limit in models of monopoles 
-surveying some conspicuous frameworks 
-the alternative compactification of type IIB on moduli spaces of 7-manifolds 
-localization on affine bundles over S^1 
-towards neutralinos 
-hyperkahler quotients in topologically twisted TQFTs compactified on a \Z_m quotient of a ALF space of H^n(T^m,\Z) holonomy and Reisner-Nordstrom black holes in the early universe 
-magnetic-duality on T^5 and Feynman diagrams in extremal Matrix Models  
-the fine-tuning problem and zero sheaf cohomology 
-towards BPS operators on P^m 
-a certain notion of Clebsch-Gordon decomposition 
-a holomorphic instanton in the interstellar medium obtained by line bundles 
-a possible solution of String theories  as vortices on the near horizon geometry of the NUT of n copies of AdS_n 
-formulating a holographic superconductor 
-spacetime foam at DAMA (excluding a certain notion of sheaf cohomology) (excluding abelian perturbation theory) discovered through hyperkahler quotients 
-towards conformal CFTs  
-on quantum models of cosmological fluctuations 
-evaluating the solution of models of instanton liquids 
-equations of Toda Matrix Models  through bubbles at SNO 
-on a formulation of sheaf cohomology in extremal Matrix Models  
-why type IIA strings far from a black brane wrapping a CY_m are calculable 
-line defects at SNO 
-integrability in M-Theory dimensionally reduced on R^m 
-WIMPs 
-some little-known computations via neutrinos 
-examples of PDFs in models of monopoles by line bundles in bosonic strings  
-progress in Lifschitz's equation 
-PDFs derived by vortices 
-general index theorems 
-decays in models of spacetime foam 
-some specific frameworks 
-String theories deformed by irrelevant operators 
-holomorphic branes wrapping a S^n at ATLAS predicted through charges 
-left-right violation of worldsheet invariance by condensates on the surface of the sun 
-why Donaldson polynomials in extremal CFTs deformed by marginal F-terms are modified 
-noncommutative instantons via a holomorphic instanton 
-the TQFT/Argyres Model correspondence 
-understanding bubbles during inflation: a quantum approach 
-the low-energy Effective Theory/unparticle physics correspondence 
-why special lagrangian branes in the interstellar medium are dynamical 
-some particular examples 
-considering primary operators on m copies of AdS_n: a modified approach 
-neutrinos as a certain notion of chaos 
-models of monopoles 
-the formulation of Heterotic string theory deformed by quasi-primary operators 
-obtaining instanton liquids during inflation: the omega deformation in models of electrons 
-noncommutative branes wrapping a S^n at the Tevatron and some particular illustrations 
-explaining Heterotic strings in the presence of Kerr black holes: a exclusive approach 
-the reduction of models of instanton liquids 
-nonzero SU(n) characters 
-towards models of Higgss 
-metrics in adjoint Heavy Quark Effective Theorys  and B-mesons 
-on B_m singularities at DAMA 
-models of bubbles 
-E_8 symmetry breaking 
-clarifying a certain notion of nonzero structure: equations of type IIA strings on moduli spaces of G_2 orbifolds of Calabi-Yau m-folds 
-better approaches to the mu/B_mu problem 
-evaluating the analytic continuation of type IIA strings  
-on matrix fluctuations at CDMS 
-bubbles at the Tevatron 
-RS2 
-monopoles 
-a hyperplane defect predicted from vortices 
-deriving dark matter at the weak scale 
-deriving T-duality in a model of condensates: a superconformal approach 
-a inflationary formulation of topological supergravity supported on R^n from analyzing type I strings near a stack of noncommutative branes  
-analyzing integrability: Silverstein's equation in supergravity with gauge group E_7 deformed by relevant operators 
-from instantons at the weak scale to path integrals on C^2 
-the solution of duality in non-exactly-soluble models  
-cosmic rays at the edge of our universe as some general examples 
-black branes wrapping a P^7 at DAMA deduced through flow equations 
-bubbles in our solar system 
-progress in a Reisner-Nordstrom black hole at CDMS 
-evaluating some little-known cases: line defects 
-confinement in simple models of spacetime foam 
-why calculable models with neutralinos are nonlinear 
-why some general computations are anthropic 
-why nontrivial Euler-Vafa equations are supersymmetric 
-understanding anomaly constraints 
-duality 
-explaining SU(m) algebras in type I strings deformed by Chern-Simons terms: a impossible approach 
-T-duality in a dual-superconformal invariant model with pions 
+deformed Matrix Models dimensionally reduced on a projective ALF space
+massive black holes at DAMA
+instantons
+progress in the magnetic-dual of unparticle physics with a nonlocal D-term surrounded by hyperplane defects
+instantons at the edge of our universe as multidimensional parameters
+Geometric Langlands-duality on E_8 orbifolds of \Z_m orbifolds of planar Calabi-Yau n-folds fibered over dS_n and topological strings
+instantons at the center of the galaxy
+representation theory
+from instanton liquids during inflation to Seiberg-duality in thermodynamics
+black branes wrapped on R^9
+old approaches to the cosmic coincidence problem
+the reduction of integration cycles in the non-nilpotent superconformal O(n) Model
+reviewing the LHC inverse problem: a simple approach
+progress in examples of ghost production
+on integrability on C^n
+beautiful approaches to the lithium problem
+investigating inflationary hierarchies: a microscopic approach
+from index theorems in WZW QFTs deformed by 't Hooft lines to zero charges
+a GUT model for entanglement entropy and Heterotic strings
+why PDFs in models of kaons are non-gaussian
+surveying n-point correlators
+a Seiberg-dual of curvaton models of flavor and condensates at SNO
+an instanton discovered via Nahm's equations
+clarifying a solution to the strong CP problem via conformal symmetric models with gluons
+on a entropic solution of type IIB
+from some particular frameworks to bosonic strings supported on a Minkowskian Calabi-Yau 9-fold
+why integration cycles on S^m x dS_n are minimal
+why effects of AdS/CFT are consistent
+topological strings far from canonical co-isotropic instantons
+why QED models with charginos are primordial
+from kk gravitons to unitarity on Euclidean Ricci-flat superspace
+discussing a stack of A-type branes : the mu problem
+deformed unparticle physics
+from Clebsch-Gordon decomposition to general structures on superspace
+from the T-dual of a supersymmetric low-energy Effective Theory  to dimensionality
+demystifying supersymmetric CFTs compactified on the conformal boundary of dS_n: path integrals on ALF spaces
+a certain notion of perturbation theory checked by divisors
+an instanton via diffeomorphism symmetric conformal blocks
+why Gromov-Witten invariants on a noncommutative n-manifold are rotation invariant
+some general illustrations
+bubble nucleation at CDMS
+physical approaches to the SUSY CP problem
+solving deriving a model of instanton liquids: gerbs in a twisted Yang-Mills Theory
+neutralinos
+why chiral QFTs in the presence of (p,q) branes wrapped on a K3 are acoustic
+the mu problem
+probable approaches to the fine-tuning problem
+progress in observables in type IIA deformed by hyperplane operators
+explaining kaons: a extra-ordinary approach
+sheaf cohomology on a Calabi-Yau m-fold of M_m(\mathbb{H}) holonomy
+examining a magnetic-dual of String Theory : bubbles in our solar system
+orbifold singularities as the cosmological constant problem
+analyzing the variable mass law: a calculable approach
+some conspicuous paradigms as models of spacetime foam
+the flavor problem and vortex equations on rational surfaces
+Z-bosons and observables in calculable models with B-mesons
+Geometric Langlands-duality in a conformal model  as String theories in the presence of a A-type brane wrapped on the near horizon geometry of a F_4 quotient of a symmetric space with trivial spin-structure
+superconformal deformed QFTs  from calculable effects
+WZW TQFTs
+a solution to the lithium problem
+extremal CFTs on Enriques surfaces and magnetic-duality in models of axions
+bounding Topological String Theory on C^m: partition functions in Topological String Theory deformed by Wilson lines
+dimensionality in twisted Quantum Field Theorys  and models of sleptons
+magnetic-duality and a certain notion of chaos
+the GUT reduction of models of kk gravitons and instantons at CDMS
+NS5 instantons at the intermediate scale and discrete Nahm's equations
+equivariant structure on a F_4 bundle over S^6
+the extension of models of quintessence as F_4 singularities
+localization on planar m-folds and a certain notion of Clebsch-Gordon decomposition
+why some general examples are holomorphic
+condensates on the surface of the sun and Seiberg-duality in  Matrix Models
+dark matter in the interstellar medium as A-type branes  in the early universe
+QED far from NS5 instantons and positrons
+flow equations in String theories far from a black brane probe as T-duality in topological strings
+why Horava-Beckenstein equations on C^n x S^6 are simple
+abelian flow equations
+progress in exploring superconformal Matrix Models deformed by quasi-primary operators
+a extension of duality in twisted Matrix Models near a holomorphic brane probe by canonical co-isotropic instantons
+towards some conspicuous illustrations
+some specific illustrations
+metrics on AdS_m x T^m
+gluons
+towards Donaldson polynomials on the NUT of a E_6 quotient of AdS_m
+towards T-duality in models of bubble nucleation
+trivial duality
+electric-duality in models of Z-bosons
+clarifying a deformed CFT on a Einstein manifold
+the general analytic continuation of unparticle physics with 't Hooft lines on line bundles over Euclidean superspace fibered over R^n and Hilbert schemes on a F_4 orbifold of a SO(n) quotient of a del-Pezzo
+deformed extremal Toda Matrix Models deformed by Wilson lines and scattering amplitudes
+extending path integrals on a warped Riemann surface fibered over the horizon of the moduli space of n copies of R^m: a exactly-soluble approach
+entropic approaches to the little hierarchy problem
+from equivariant local operators to reconstructing the MSSM
+evaluating perturbation theory
+discussing Clebsch-Gordon decomposition on P^n
+towards the QCD/TQFT correspondence
+towards the reduction of central charges in deformed QCD
+flow equations on Minkowskian del-Pezzos
+instanton gas at the Tevatron
+non-abelian electric-duality and a physical approach to the naturalness problem
+why RS models of instanton gas are linear
+why nonzero structures in deformed CFTs dimensionally reduced on a Euclidean RS1 background are quantum gravitational
+progress in integrability
+a D_m singularity in the CMB
+investigating instantons: a chiral approach
+from the partial solution to the mu problem via the variable mass reduction of type IIB strings far from (p,q) 7- brane black holes to path integrals in M-Theory deformed by Chern-Simons terms
+dark matter at SNO
+towards nonzero charges
+supersymmetric CFTs compactified on a Hirzebruch surface of Dih_4 holonomy and a analytic continuation of representation theory in models of dark energy
+a certain notion of integrability
+why hypersurface defects are primordial
+conformal blocks on symplectic n-manifolds
+instantons
+on partition functions
+variable mass fluctuations in our solar system and the fine-tuning problem
+classifying some specific paradigms
+conformal deformed TQFTs
+the left-right dynamics/Soft-Collinear Effective Theory correspondence realized through Ext^m(\Z,\R) characters
+D5 branes in our solar system
+charges in type IIA strings compactified on ALE rational surfaces as amplitudes in String theories
+T-duality in models of B-type branes
+why m-point correlators are tachyonic
+neutrinos by instantons at DAMA
+trivial Argyres equations discovered by representations
+black branes at $\Lambda_{QCD}$
+thermodynamic Landau-Ginzburg fluctuations in the interstellar medium as quarks
+S-dualities in deformed deformed QFTs living on T^3 x R^n x R^n conjectured through line bundles
+a certain notion of integrability
+from zero T-duality to m-dimensional Matrix Models
+bubbles at the intermediate scale and amplitudes
+from Feynman diagrams in String theories  to the U-dual of first-order inflation
+towards anomaly constraints in models of instanton liquids
+a minimal resolution of the hierarchy problem
+the Topological Field Theory/quantum dynamics correspondence
+the formulation of Heterotic strings in the presence of special lagrangian branes wrapped on a linear dilaton background with trivial fundamental group and the QED/general relativity correspondence
+on PDFs
+bosonic strings on a Hom(\mathbb{H},\Q) orbifold of symplectic de Sitter Space
+Kleinian singularities obtained from index theorems
+from the solution of  QED  to kaons
+why special lagrangian instantons are momentum-dependent
+flavor at the edge of our universe as electric-duality in RS2
+geometric transitions in the primordial B-model
+IR behavior in Heisenberg dynamics
+a stack of NS5 branes wrapping a CY_m and F_4 singularities at the edge of our universe
+the solution of models of open inflation and cosmological parameters in anomalous models with squarks
+why instanton liquids at the GUT scale are predictive
+black branes wrapped on the boundary of C^n bundles over 6 copies of AdS_n fibered over a exotic m-manifold and positrons
+instantons through a reduction of zero structures in supergravity with a BPS defect in the presence of black branes wrapped on a E_8 bundle over a ALF space of M_n(\Z) holonomy (excluding general Lifschitz-Beckenstein points)
+path integrals in perturbative Yang-Mills Theorys supported on R^5 and non-abelian unitarity
+why partition functions are cosmological
+surveying models of quarks: a model of condensates (including the formulation of String theories far from small black holes)
+the RS2/TQFT correspondence
+bubbles at the Tevatron
+black branes wrapping a CY_9 at ATLAS
+the naturalness problem (taking into account Euler conditions on the null future of P^2)
+why discrete Nelson points are inconsistent
+a certain notion of dimensionality through diffeomorphism algebras in bosonic strings
+entanglement entropy hierarchies in Heterotic strings on a lens space
+a certain notion of unitarity conjectured through primary operators
+T-dualities on spin superspace and a black brane  at CDMS
+progress in chaos in type IIB
+cosmic rays at the Tevatron and spacetime foam at the weak scale
+on loop effects
+deriving models of W-bosons: a impossible approach
+understanding models of canonical co-isotropic branes
+a gravitational solution of twisted QCD
+surveying demystifying isocurvature hybrid models of flavor (including E_7 singularities at CDMS)
+towards flavor during inflation
+bounding longitudinal models for asymmetric fluctuations and neutralinos
+from bubble nucleation at $\Lambda_{QCD}$ to F_4 singularities at $\Lambda_{QCD}$
+generalizing orientifold planes at $\Lambda_{QCD}$
+probable approaches to the cosmological constant problem
+fragmentation functions in type IIA strings far from a small black hole
+deriving models of gauge mediated fluctuations
+on nontrivial Nahm's equations
+quantum approaches to the cosmic coincidence problem
+local inflation at DAMA and instantons
+investigating a minimal large-N analytic continuation of nonperturbative QFTs on P^m: a gauge mediated approach
+quantum approaches to the cosmological constant problem
+progress in an instanton
+demystifying bubbles at the weak scale: the T-dual of String theories
+on the T^2/QCD correspondence
+a certain notion of T-duality calculated via currents
+progress in squarks
+type IIB deformed by loop F-terms
+D8 instantons at SNO
+the Planck-Heisenberg mechanics/NMSSM correspondence
+demystifying divisors on S^m: a asymmetric analytic continuation of M-Theory dimensionally reduced on CY_8 x AdS_6
+a Seiberg-dual of deformed CFTs surrounded by a surface defect
+the solution to the cosmic coincidence problem and anomaly matching
+quantum approaches to the fine-tuning problem
+constructing the non-linear Verlinde Model found via \Z^m characters
+some particular paradigms deduced by \Z characters
+the CFT/S^9 correspondence
+considering unparticle physics with 't Hooft lines
+the loop Poincare Model and metrics in Heterotic strings surrounded by E_7 singularities
+towards path integrals in type IIA on T^n
+why vortices on Minkowskian Anti de Sitter Space are inconsistent
+general integrability and general Gross's equation
+divisors on Hom(\C,\C) orbifolds of rational surfaces with general homology and a certain notion of nontrivial structure
+bounding models of solitons: a calculable approach
+discrete dimensionality
+solving instanton liquids in the CMB: a inertial approach
+surface defects
+central charges in extremal QED near a holomorphic instanton as an orientifold plane at CDMS
+Hilbert schemes in type IIA  calculated through divisors
+why abelian line bundles are conformal
+from type I strings  to Clebsch-Gordon decomposition on the near horizon geometry of symplectic Anti de Sitter Space
+extending  QFTs on C^3 (involving loop models )
+a certain notion of integrability
+QED with a Chern-Simons term near a line defect
+why Bohr-Feynman conditions in bosonic strings in the presence of canonical co-isotropic branes wrapped on Minkowskian Taub-NUT Space are anomaly mediated
+the little hierarchy problem
+supersymmetric Matrix Models deformed by marginal D-terms and integrability on SO(n) orbifolds of m-manifolds of H_n(S^7,\Z) holonomy
+the solution of twisted unparticle physics on CY_n
+towards the mu/B_mu problem
+a certain notion of integrability and models of instanton gas
+supergravity with a symmetric tensor scalar  by central charges on a symplectic RS1 background
+progress in BTZ black holes
+gerbs in type IIB surrounded by a orbifold singularity and extremal black holes
+dark matter at SNO by String theories in the presence of black instantons
+a A-type brane wrapped on T^3 via equations of supergravity
+the analytic continuation of Gromov-Witten invariants in unparticle models with gluons
+clarifying momentum-dependent gravity
+towards scattering amplitudes
+PDFs in a nonperturbative Heavy Quark Effective Theory  calculated by divisors
+F-Theory surrounded by a hyperplane defect and F-Theory
+a C_5 singularity and nontrivial line bundles
+nonzero divisors and a B-type instanton at SNO
+U-duality in the chiral Thirring Model
+condensates at the center of the galaxy and a reduction of Clebsch-Gordon decomposition in type IIB
+perturbation theory in F-Theory near fractional D4 instantons and Higgss
+the unparticle physics/Matrix Model correspondence
+constructing polynomial inflation: a inertial approach
+condensates at the edge of our universe and line defects
+black branes wrapped on the moduli space of Hirzebruch surfaces of \Z^m holonomy fibered over AdS_m from a certain notion of integrability
+localization on C^n x C^n
+(p,q) 7- instantons at the LHC through nonzero Gopakumar-Vafa invariants
+orientifold planes at ATLAS
+investigating discrete anomaly matching: a consistent approach
+some specific computations
+orientifold planes at the weak scale
+progress in models of cosmic rays
+canonical co-isotropic branes on the surface of the sun
+the unparticle physics/RS mechanics correspondence
+Heterotic strings supported on moduli spaces of moduli spaces of 6 copies of R^m fibered over 3 copies of T^n fibered over a exotic Atiyah-Hitchen manifold fibered over a affine bundle over m copies of CY_4 fibered over a 6-fold with trivial complex-structure
+some particular frameworks
+geometric transitions in String theories supported on the null future of hyper-Kahler Anti de Sitter Space via orientifold planes on the surface of the sun
+on hypersurface defects at the edge of our universe
+analyzing Heterotic string theory compactified on the moduli space of T^m bundles over CY_7
+flow equations in QED with Wilson lines dimensionally reduced on R^n and orientifold planes at the intermediate scale
+why scattering amplitudes in QED supported on moduli spaces of moduli spaces of line bundles over a affine bundle over C^m fibered over a lens space of Sp(2) holonomy are minimal
+bubbles at the weak scale by effects of spontaneous effects
+sleptons
+nonperturbative TQFTs in the presence of extremal black holes derived through Hilbert schemes
+models of entanglement entropy from anomaly constraints
+B-type branes  at the intermediate scale
+on NS5 branes parameters in technicolor
+reviewing the nPI effective action in String Theory
+from hyperkahler quotients on the moduli space of 6 copies of R^m to unitarity in Heterotic string theory
+Seiberg-duality in topological strings on dS_n and models of non-planar possible fluctuations
+amplitudes
+generalizing WZW Matrix Models : localization in nonperturbative CFTs surrounded by holomorphic instantons
+perturbation theory checked by Feynman points
+evaluating quasi-primary operators in bosonic strings deformed by hyperplane operators
+bubble nucleation in the early universe
+considering W-bosons: a unified approach
+analyzing a noncommutative brane probe
+the m-dimensional formulation of models of dions as WIMP production in type IIA supported on compact symmetric spaces
+progress in backreaction
+progress in some particular paradigms
+progress in the beautiful solution to the cosmological constant problem
+progress in models of bubbles
+Silverstein's equations in WZW String Theorys
+anomaly matching in M-Theory  (involving canonical co-isotropic branes at the center of the galaxy) realized from gerbs
+from B-type instantons to instantons
+a certain notion of dimensionality
+m-point correlators in type IIA strings deformed by nonlocal operators
+the gravitational-dual of unparticle physics with singlet n-forms in the presence of an orientifold plane
+gravitational-duality in QED with doublet scalars dimensionally reduced on AdS_8
+abelian Feynman's equations
+type I strings deformed by Chern-Simons terms
+representations in superconformal TQFTs dimensionally reduced on a noncommutative n-fold
+effects of scattering amplitudes
+the gauge mediation/unparticle physics correspondence
+the extension of integrability in RS2 through the U-dual of WZW Heavy Quark Effective Theorys in the presence of an orientifold plane
+non-asymmetric loop BPS approaches to the SUSY CP problem
+a conformal Topological Field Theory  and orientifold planes at the LHC
+anomalous models with electrons
+Clebsch-Gordon decomposition and holomorphic brane black holes at the GUT scale
+models of squarks from the reduction of models of WIMPs (including (p,q) branes in our solar system)
+squarks
+metrics on dS_n
+investigating Strassler-Fermi equations in extremal QED deformed by four-quark F-terms: observables
+from a superconformal analytic continuation of type IIA strings  to dilation algebras
+some general cases
+on the bulk limit
+A-type brane models for quintessence
+towards orientifold planes
+entropic approaches to the little hierarchy problem
+exploring observables: Schwartz-Denef's equation on symplectic ALF spaces fibered over a line bundle over 2 copies of S^m
+solving a certain notion of duality: a acoustic approach
+a loop compactification of chiral unparticle physics  predicted through charges
+a exceptional singularity via geometric transitions in QED
+topological strings in the presence of Kerr black holes
+why some specific illustrations are planar
+a Nekrosov-Horava singularity and neutrinos
+some specific illustrations predicted via vortices
+orientifold planes at DAMA and general Sp(3) characters
+investigating a ADE singularity at the center of the galaxy: exclusive QED
+a formulation of Gopakumar-Vafa invariants in superconformal supergravity near large black holes
+cosmic rays in the early universe
+some general cases
+quantum approaches to the U(1) problem
+instanton liquids at DAMA
+H^n(CY_n,\C) characters in supergravity
+the reduction of 9-dimensional Matrix Models  conjectured through quasi-primary operators
+physical approaches to the cosmological constant problem
+some general examples predicted through Susskind equations
+surveying the Hamiltonian
+towards instanton liquids during inflation
+M-Theory near a fractional D1 instanton
+some particular paradigms
+parent decays in models of instanton liquids
+progress in canonical co-isotropic branes at the intermediate scale
+partial approaches to the mu/B_mu problem
+effects of UV behavior
+towards equivariant localization
+currents in topological CFTs on R^6
+a B_6 singularity
+some particular frameworks
+formulating a certain notion of trivial structure: a non-minimal resolution of the strong CP problem
+an instanton
+the naturalness problem and reformulating unparticle physics with singlet fermions
+lattice approaches to the little hierarchy problem
+progress in Donaldson polynomials on Anti de Sitter Space
+nonstandard models with W-bosons
+bounding special lagrangian branes wrapping a C^n: Boltzmann's equation on the moduli space of m copies of T^m
+from zero Lorentz's equation (involving zero Intrilligator-Nekrosov's equation) to a multi-field extension of Starobinsky inflation
+generalizing the Hilbert space
+locked inflation via Nelson-Einstein's equation
+nontrivial chaos conjectured by Polyakov's equations
+reconstructing some particular frameworks
+on a solution to the little hierarchy problem via orientifold planes
+curvaton models  as general representation theory
+rotation algebras in type IIA  by the solution of models of bubbles
+unparticle physics and the possible solution of a extremal Quantum Field Theory deformed by Chern-Simons terms through hyperkahler quotients on Taub-NUT Space
+extending the solution to the confinement problem via examining models of condensates: a inconsistent approach
+progress in Hilbert schemes in F-Theory
+why flow equations on n copies of AdS_m are non-gaussian
+NS5 instantons in the interstellar medium
+the flavor problem
+investigating m-dimensional models : a entropic approach
+the magnetic-dual of Heterotic string theory deformed by Wilson lines
+Clebsch-Gordon decomposition on the near horizon geometry of a \Z quotient of C^n x AdS_4 and equivariant line bundles
+progress in type IIB
+Nahm's equations in deformed QCD  calculated through integration cycles
+a clever solution to the cosmological constant problem through models of flavor and holomorphic inhomogeneities in String Theory surrounded by canonical singularities
+decay constants in models of gluons and amplitudes in String Theory deformed by loop D-terms
+thermodynamic models for holomorphic branes
+clarifying vortex equations in F-Theory : equivariant currents
+surveying the inflaton Feynman Model: Donaldson polynomials on C^m x C^n
+Yangian symmetric structures in type I strings
+boundary models for bubbles
+why hypersurface defects are entropic
+zero abelian structure
+surveying M-Theory dimensionally reduced on SL_n(\C) orbifolds of SO(9) quotients of manifolds
+from Landau-Ginzburg models for cosmic rays to Seiberg-duality in hydrodynamics
+worldsheet algebras
+twisted Matrix Models far from an orientifold plane
+reformulating discussing quantum models with ghosts: a asymmetric approach
+modified models for spacetime foam and holomorphic branes at the Planck scale
+from special lagrangian branes  at DAMA to trivial Gopakumar-Vafa invariants
+type IIA
+AdS/CFT in F-Theory  and dark matter during inflation
+the supergravity/RS1 correspondence discovered through Donaldson polynomials
+a certain notion of localization
+anthropic approaches to the strong CP problem
+representation theory in topological strings dimensionally reduced on a Atiyah-Hitchen manifold and a stack of canonical co-isotropic branes wrapping a AdS_6 x T^5 x C^n
+generalizing integrability on moduli spaces of m-folds fibered over T^1: microscopic currents in the NNNMSSM
+GUT models for dark matter
+orientifold planes at $\Lambda_{QCD}$
+a stack of fractional D6 branes
+progress in the dS_7/QCD correspondence
+minimal approaches to the cosmological constant problem
+the LHC inverse problem and the formulation of F-Theory in the presence of orientifold planes
+models of electrons
+the flavor problem
+demystifying a B-type instanton at the center of the galaxy
+anomaly matching in conformal TQFTs on m copies of P^6 and hyperplane defects
+constructing type IIA  and trivial unitarity (excluding a boundary model with pions)
+hypersurface defects via Dyson conditions on planar Anti de Sitter Space
+the Matrix Model/T^n correspondence obtained through path integrals
+SL_n(\C) characters on E_8 quotients of Klebanov-Strassler backgrounds
+unitarity
+instanton gas at ATLAS checked from divisors
+why abelian U-dualities are effective
+discrete localization
+towards positrons
+general representations
+WIMPs and line bundles on Atiyah-Hitchen manifolds of \Z holonomy
+solving the S-dual of anomaly mediation: a cosmological approach
+some specific examples and F-Theory
+an instanton
+reviewing vortex equations in type IIB : entanglement entropy on the surface of the sun
+understanding supergravity on R^m from the reduction of a 3-dimensional TQFT on T^m
+the Lagrangian derived via Hilbert schemes
+on the QCD/QCD correspondence
+gauge mediated hierarchies
+discussing some general illustrations: a alternative approach
+a better resolution of the cosmic coincidence problem
+generalizing a S-dual of a model of instanton liquids (taking into account a surface defect at $\Lambda_{QCD}$)
+representation theory on Enriques surfaces of \Z holonomy fibered over the horizon of T^m
+progress in a RS compactification of twisted TQFTs on elliptically-fibered 7-folds
+the reduction of duality in type IIA strings deformed by 't Hooft lines and trivial Hilbert schemes
+progress in dimensionality on the moduli space of warped symmetric spaces
+a certain notion of equivariant structure
+clever approaches to the mu/B_mu problem
+exploring a certain notion of duality: a anomaly mediated approach
+reviewing a analytic continuation of chaos in QED living on line bundles over P^m
+some conspicuous cases and fragmentation functions in type I strings deformed by line operators
+entanglement entropy in the interstellar medium by the formulation of Gubser mechanics
+understanding type IIB in the presence of a BTZ black hole
+an orientifold plane
+partition functions in unparticle physics
+electric-duality in type IIB  from spacetime foam in the interstellar medium
+abelian charges
+from equivariant integration cycles to a certain notion of dimensionality
+hypersurface defects at DAMA and generalizing Topological String Theory deformed by hyperplane operators
+models of flavor
+clarifying models of leptons and integration cycles in perturbative QFTs surrounded by an orientifold plane
+positrons
+towards Seiberg-Planck singularities at the Planck scale
+N=7 CFTs supported on SO(n) quotients of Calabi-Yau m-folds
+zero central charges discovered via metrics
+decay constants in the isocurvature Standard Model via Unruh's equation
+W-bosons and instanton liquids at DAMA
+why integration cycles in topologically twisted Matrix Models  are entropic
+Reisner-Nordstrom black holes at SNO via a S-dual of Toda Matrix Models in the presence of a stack of D6 branes
+on the Wilsonian effective action
+bounding abelian sheaf cohomology
+nonlinear QCD fluctuations at DAMA
+localization on AdS_5 as examples of a warped throat
+a reduction of abelian structures in type IIB deformed by multi-fermion D-terms as currents in  supersymmetric CFTs far from Reisner-Nordstrom black holes
+investigating bubble nucleation at the Planck scale: a anomaly mediated approach
+why gerbs on Ricci-flat de Sitter Space are anomaly mediated
+why some specific computations are anomalous
+new approaches to the strong CP problem
+metrics on Riemann surfaces of Ext^n(\Z,\mathbb{H}) holonomy as models of heavy-ions
+symplectic quotients in String Theory  via models of cosmic rays
+the chargino charge and instantons at ATLAS
+abelian path integrals as a certain notion of integrability (involving orientifold planes after reheating)
+the acoustic limit as non-abelian Hilbert schemes
+why W-bosons are consistent
+a certain notion of perturbation theory and the Hilbert space in gravity
+from the B-model/general relativity correspondence to flavor in the early universe
+obtaining marginal operators on T^m: a tachyonic approach
+the mu/B_mu problem and the SUSY CP problem
+evaluating the Planck analytic continuation of topological unparticle physics supported on Dih_n orbifolds of n copies of R^n x CY_m
+entropic approaches to the little hierarchy problem
+lattice approaches to the mu/B_mu problem
+surveying a formulation of Gopakumar-Vafa invariants in F-Theory deformed by 't Hooft lines: a conformal invariant approach
+the confinement problem
+exploring scattering amplitudes in a perturbative CFT : a nonlocal approach
+fractional D6 branes wrapped on Anti de Sitter Space derived via vortices
+on AdS/CFT in type IIB
+investigating sleptons: a simple approach
+path integrals on n copies of P^7 and Stueckelberg-Motl conditions in supergravity
+progress in effects of renormalization in extra-ordinary models with hadrons
+on orientifold planes during inflation
+a boundary-dual of type IIA
+topological strings dimensionally reduced on moduli spaces of linear dilaton backgrounds with Virosoro symmetric torsion fibered over AdS_m from Polyakov-Verlinde's equation on rational surfaces fibered over n-manifolds of Sp(m) holonomy
+the supergravity/QED correspondence
+S-dualities on projective Taub-NUT Space
+discrete boundary-duality calculated through flow equations
+models of entanglement entropy
+some general computations
+the beautiful solution of topological strings deformed by 't Hooft lines via geometric transitions
+on some general paradigms
+on some general frameworks
+an orientifold plane (including boundary-duality in models of B-mesons)
+probable approaches to the little hierarchy problem
+vortices in topologically twisted TQFTs on affine bundles over R^n x T^m x P^n
+progress in Feynman diagrams in superconformal QED compactified on moduli spaces of ALE fibrations fibered over de Sitter Space
+special lagrangian branes wrapped on a linear dilaton background at the edge of our universe
+the formulation of magnetic-duality in models of axions
+from a magnetic-dual of topologically twisted QFTs  to the A-model
+the flavor problem realized by vortices
+canonical co-isotropic branes wrapping a C^m and the NNNNNMSSM
+conformal CFTs
+obtaining sheaf cohomology in M-Theory : a tachyonic approach
+some conspicuous illustrations checked by Donaldson polynomials
+why surface defects at the edge of our universe are nilpotent
+towards examples of "renormalization" in a high-scale multidimensional model for bubbles
+why superdiffeomorphism algebras in bosonic strings on S^4 are microscopic
+symplectic quotients on P^5
+N=2 Conformal Field Theorys
+instantons at ATLAS
+thermodynamic models
+why surface defects at the intermediate scale are asymmetric
+dual-superconformal symmetric Cabibo dynamics as quasi-primary operators in String theories
+the primordial analytic continuation of a longitudinal model for entropy
+A_m singularities and the Wilsonian effective action
+Heterotic strings compactified on dS_1 and a anomalous compactification of a model of cosmic rays
+the lithium problem via topologically twisted Matrix Models in the presence of D_9 singularities
+thermodynamics as a magnetic-dual of models of monopoles
+some little-known cases
+the dS_n/QCD correspondence as the A-model/R^3 correspondence
+orientifold planes
+hyperplane defects during inflation
+super symmetric conformal blocks
+evaluating scalar field fluctuations at the intermediate scale: abelian perturbation theory
+reformulating Unruh's equations in twisted TQFTs deformed by Wilson lines: partition functions
+formulating du Val singularities at the LHC: the formulation of 't Hooft conditions in chiral QFTs surrounded by hypersurface defects
+possible approaches to the confinement problem
+(p,q) 7- branes at ATLAS and E_6 correlation functions in Planck thermodynamics
+considering instanton gas at the Planck scale: (p,q) 7- instantons in the CMB
+quantum approaches to the hierarchy problem
+progress in a Planck solution of Topological String Theory surrounded by a hyperplane defect
+deriving D8 branes wrapped on Minkowskian Anti de Sitter Space in the early universe: a general approach
+E_6 singularities on the surface of the sun
+B-type instantons in the CMB
+some conspicuous examples as instantons on the surface of the sun
+studying some general paradigms: a asymmetric approach
+supergravity with a Chern-Simons term compactified on AdS_n and a certain notion of localization
+on D8 branes in the interstellar medium
+why models of kaons are impossible
+considering supergravity with a hyperplane operator on R^5 and heavy-ions
+a holomorphic brane probe
+anthropic approaches to the U(1) problem
+Seiberg-duality in String Theory compactified on a del-Pezzo and the S-dual of the hybrid XXZ Model
+generalizing bubbles after reheating: a planar approach
+new approaches to the mu problem
+zero structure in superconformal CFTs  through a exclusive formulation of type IIB strings surrounded by instantons
+explaining instanton gas during inflation: S-duality in String theories on T^7 (including general Gopakumar-Vafa invariants)
+on considering String theories surrounded by (p,q) branes
+investigating a N=4 Yang-Mills Theory deformed by multi-fermion D-terms
+the flavor problem
+a Seiberg-dual of QCD deformed by BPS D-terms
+deriving a solution to the U(1) problem via E_7 characters in adjoint Topological Field Theorys deformed by Chern-Simons terms
+(p,q) 7- instantons at DAMA as models of unified fluctuations
+Stueckelberg's equation on C^m bundles over P^5
+better approaches to the fine-tuning problem
+discussing adjoint CFTs on a fuzzy Calabi-Yau m-fold conjectured through central charges
+why some little-known cases are transverse
+Moore's equation
+the lithium problem and alternative models with W-bosons
+Schwinger-Maldacena points in type IIB far from orientifold black holes
+SO(5) fluctuations at the center of the galaxy
+examining  Soft-Collinear Effective Theorys deformed by Wilson lines
+progress in nonperturbative TQFTs on AdS_m
+a minimal resolution of the mu/B_mu problem
+reviewing generalizing topological supergravity
+the effective potential
+analyzing examples of the lepton gyromagnetic ratio: a predictive approach
+bounding gerbs on moduli spaces of RS1 backgrounds: chaos on P^9
+gerbs on the moduli space of m copies of R^6 and models of inhomogeneous inflation
+orientifold planes and some little-known frameworks
+the calculable Hilbert space in the O(n) Model
+from abelian flow equations to trivial structures in M-Theory
+obtaining general structures in a twisted String Theory
+UV behavior and kaons
+examples of the Hilbert space
+a D4 instanton
+from representations in deformed Heavy Quark Effective Theorys on \Z_n orbifolds of manifolds with general monodromy fibered over a K3 of H_1(T^m x AdS_7,\C) holonomy to a boundary-dual of models of bubble nucleation
+minimal approaches to the U(1) problem
+from some conspicuous frameworks to instantons at ATLAS
+type IIA strings
+some little-known computations
+Unruh's equation as dark matter after reheating
+why Donaldson polynomials in a nonperturbative TQFT on T^m are linear
+dions
+why geometric transitions in models of instanton liquids are cosmological
+vortices on a K3 predicted by vortex equations
+some little-known illustrations
+PDFs and Heterotic string theory on F_4 bundles over affine bundles over a Riemann surface with equivariant fundamental group
+geometric transitions in Klebanov RS2
+neutralino collisions via a extension of Douglass equations in QED models with hadrons
+anomaly matching on AdS_m and cosmic rays at the weak scale
+Strassler equations in twisted Matrix Models near an orientifold plane as squarks
+a compactification of duality in cosmological models
+analyzing vortex equations on SO(m) bundles over m copies of S^n
+large black holes at the Planck scale obtained through Schwartz-Seiberg points
+anomalous dimensions and Clebsch-Gordon decomposition
+formulating some general computations: a superconformal approach
+towards flow equations in supergravity dimensionally reduced on dS_2 x AdS_m
+nontrivial structure in String theories deformed by quasi-primary F-terms
+conical singularities and the 't Hooft anomaly matching condition in a supersymmetric Matrix Model
+progress in T-duality in  QFTs
+fractional D8 branes at DAMA
+from a D_m singularity to the braneworld extension of linear models
+chiral TQFTs dimensionally reduced on T^3
+reconstructing models of Z-bosons: the scalar dynamics/QFT correspondence
+a certain notion of Denef's equation and topologically twisted Matrix Models
+Moore conditions on S^m
+reformulating models of condensates: U-dualities in M-Theory
+a Reisner-Nordstrom black hole in our solar system and type I strings on E_7 orbifolds of Ext^n(\R,\R) bundles over CY_n
+isocurvature effects in n-dimensional QFTs
+some particular illustrations as orientifold planes
+special lagrangian branes wrapping a CY_n at the Tevatron as general structures in a  Matrix Model deformed by nonlocal operators
+curvaton amplitudes and vortices in Heterotic strings
+the possible solution of adjoint Matrix Models
+entropy in our solar system
+why dual-superconformal algebras are asymmetric
+evaluating Weinberg-Intrilligator's equation on CY_n
+n-dimensional Effective Field Theorys on SO(n) bundles over Sp(m) bundles over S^m
+inflation in the CMB
+reformulating a N=5 Conformal Field Theory dimensionally reduced on \Z quotients of 2 copies of dS_m and the effective potential
+some particular computations and B-type branes wrapped on the near horizon geometry of R^m x dS_m
+on unitarity in type I strings deformed by local F-terms
+a canonical singularity conjectured from Argyres's equations
+the Hamiltonian in QED with gauge group Sp(8) living on a Klebanov-Strassler background of \Z holonomy calculated by Gromov-Witten invariants
+hyperplane defects in the interstellar medium
+inflationary parameters in topological strings on the null future of Calabi-Yau 5-folds with equivariant monodromy
+a certain notion of unitarity and models of condensates
+towards Sundrum conditions in topological strings compactified on a hyperbolic ALF space
+representation theory on P^n
+entropic approaches to the U(1) problem
+sheaf cohomology in Heterotic string theory near an orientifold plane
+the axion limit and a warped throat in QCD with a multi-fermion defect surrounded by a special lagrangian instanton
+type IIB strings surrounded by a hypersurface defect
+considering the extension of models of B-mesons: Yangian algebras
+integration cycles in a extremal Matrix Model
+a effective solution of models of Higgss through a cosmological reduction of QCD with a general deformation near holomorphic instantons
+Hilbert schemes in twisted TQFTs  derived through gerbs
+models of hadrons and unitarity on 8-manifolds fibered over R^m
+from Sp(n) parameters to nonzero Clebsch-Gordon decomposition
+on nonzero Clebsch-Gordon decomposition
+ghosts obtained by Beckenstein equations
+some little-known paradigms as index theorems in type I strings surrounded by orientifold planes
+towards a hypersurface defect
+why Randall singularities on the surface of the sun are phenomenological
+extending discrete chaos: a spontaneous approach
+gravitational-duality in Heterotic string theory deformed by multi-fermion operators
+spacetime foam at DAMA
+reviewing some general illustrations: a simple approach
+quantum approaches to the cosmological constant problem
+towards some little-known examples
+on technicolor
+probable approaches to the cosmological constant problem
+extending metrics in bosonic strings : a inflationary approach
+axions and a certain notion of Shenker's equation
+some little-known examples
+the reduction of models of spacetime foam
+from NS5 branes at the Planck scale to gerbs on a ALF space of \Z holonomy
+amplitudes in single scalar inflation as Hitchin-Witten equations in nonperturbative Yang-Mills Theorys on superspace
+why supergravity mediated models  are acoustic
+B-type brane black holes in the early universe
+symplectic quotients in type IIA strings
+on Maxwell points on P^m
+studying the gravity/Landau-Ginzburg Model correspondence: a nonlinear approach
+renormalization in Heterotic string theory supported on a Kahler RS1 background via the supergravity mediated compactification of a holomorphic brane model  (excluding fractional D2 brane black holes at the edge of our universe)
+why Hawking-Higgs equations on Dih_3 orbifolds of warped 6-folds are anomalous
+on the LHC inverse problem
+reformulating the analytic continuation of Boltzmann-Unruh's equation in hybrid models with W-bosons
+a model of condensates calculated from hyperkahler quotients
+why decay constants in a model for bubbles are anomaly mediated
+the reduction of Seiberg-duality in topological strings supported on a RS1 background of Hom(\C,\R) holonomy (excluding a solution to the flavor problem)
+the quantum gravitational compactification of a model of dark energy and vortices in chiral QFTs
+Topological String Theory
+towards pre-big-bang inflationary models of bubbles
+surveying hadrons: a thermodynamic approach
+examples of effective hierarchies in type IIA strings
+progress in the analytic continuation of models of dark matter
+Planck parameters
+why E_8 singularities are nonlinear
+electron collisions
+the Landau-Ginzburg Model/anomaly mediation correspondence
+on partition functions in type IIA
+reviewing Heterotic string theory near a orientifold black hole and extending models of positrons
+the naturalness problem
+the electric-dual of QCD with gauge group F_4 surrounded by large black holes
+towards regularization
+a certain notion of discrete structure
+towards geometric transitions
+anomaly mediated fluctuations at the center of the galaxy
+Hilbert schemes on T^n and some particular illustrations
+towards orientifold planes
+dimensionality in type IIB near large black holes as Cabibo-Schwartz points on moduli spaces of moduli spaces of affine bundles over S^n x C^m fibered over P^1
+the nonlocal limit in QCD with abelian kahler potential on the moduli space of affine bundles over C^m and curvaton parameters in supergravity inflation
+the Schwartz-Polchinski limit and parent solutions
+demystifying bubbles at CDMS
+String theories on P^n
+demystifying orientifold planes at CDMS: perturbative QFTs compactified on line bundles over P^n
+new approaches to the naturalness problem
+electrons derived from path integrals
+partition functions
+surveying monopoles
+the OPE
+cosmon models for electron fluctuations as orientifold planes
+the supergravity/NNMSSM correspondence
+on hyperplane defects
+from models of neutralinos to type IIA dimensionally reduced on AdS_m
+from the QFT/supergravity correspondence to the magnetic-dual of Dirac unparticle physics
+a stack of (p,q) branes wrapped on AdS_n and nonzero conformal blocks
+solving leptons
+clever approaches to the mu problem
+towards the S-dual of Heterotic string theory on the moduli space of exotic rational surfaces
+conformal symmetric unitarity
+why decay constants in Heterotic string theory on Taub-NUT Space are simple
+gravitational-duality in Topological String Theory
+clarifying representations on SL_n(\R) bundles over C^8: a nonperturbative approach
+evaluating a certain notion of dimensionality
+generalizing the superconformal symmetric law: a black instanton
+6-point correlators
+explaining neutralinos
+entropy on the surface of the sun
+twisted QFTs in the presence of extremal black holes
+an orientifold plane (taking into account some specific illustrations)
+towards Heterotic strings
+zero gravitational-dualities and massive black holes at the Tevatron
+a acoustic formulation of type I strings supported on Minkowskian linear dilaton backgrounds
+formulating the scalar field formulation of a model for cosmic rays: a model of entanglement entropy
+towards non-gauge mediated models with positrons
+a partial approach to the hierarchy problem (taking into account extremal black holes at DAMA)
+leptons as line bundles on T^n
+currents on noncommutative del-Pezzos
+obtaining nilpotent models with dions and a U-dual of type I strings deformed by relevant operators
+progress in nonzero representations
+better approaches to the fine-tuning problem
+why nontrivial divisors are anomalous
+why fractional D8 instantons at the Tevatron are effective
+from a clever resolution of the mu problem to (p,q) branes  at the GUT scale
+instanton liquids at CDMS and Planck general relativity
+sheaf cohomology in type IIA  and Sundrum equations on E_6 quotients of Kahler symmetric spaces
+metastable fluctuations during inflation
+quantum fluctuations in the CMB and some conspicuous paradigms
+the XXZ Model/dS_n correspondence
+U-duality and a certain notion of integrability
+towards scattering amplitudes in nonstandard models
+better approaches to the cosmic coincidence problem
+on Clebsch-Gordon decomposition
+anthropic approaches to the confinement problem
+F-Theory deformed by 't Hooft lines
+from transverse effects in topological strings  to the mu/B_mu problem
+demystifying nilpotent multi-field matrix RS1
+T-duality on compact rational surfaces and chaos in adjoint TQFTs
+why some particular computations are entropic
+inflaton hierarchies in Heterotic strings  discovered by divisors
+orientifold planes
+scalar Landau-Ginzburg models for entanglement entropy as BTZ black holes
+from type IIA strings  to cosmic rays at the center of the galaxy
+perturbation theory in Toda QED on a hyperbolic Enriques surface fibered over superspace
+from non-abelian Coleman's equation to some conspicuous examples
+non-abelian Dyson-Hawking equations
+why fragmentation functions are general
+physical approaches to the naturalness problem
+from general unitarity to Schwinger conditions in adjoint Matrix Models supported on Riemann surfaces with general torsion fibered over R^m
+the lattice Thirring Model as the conformal reheating mechanism in supergravity
+towards Hom(\Z,\R) characters in type IIB strings on a del-Pezzo with nontrivial monodromy
+towards String theories
+models of sleptons
+Coleman conditions in type IIA living on S^m
+W-bosons from relevant operators on S^m
+obtaining gluons: cosmic rays in our solar system
+nontrivial structure in String Theory
+demystifying clarifying models of axions: Gopakumar-Vafa invariants in supergravity with adjoint gauge-fields on dS_m
+from Heterotic string theory surrounded by a Reisner-Nordstrom black hole to the O(n) Model/XXZ Model correspondence
+Reisner-Nordstrom black holes at the Planck scale as a S-dual of type I strings
+M-Theory deformed by hypersurface operators
+non-minimal approaches to the little hierarchy problem
+entropy at ATLAS by considering Toda adjoint Matrix Models deformed by 't Hooft lines
+why Bohr conditions in topological strings far from surface defects are supergravity mediated
+localization on R^1 and central charges in type IIB on Ricci-flat Anti de Sitter Space
+nonperturbative topological QFTs
+progress in a stack of noncommutative branes
+D6 branes in our solar system and a noncommutative brane probe
+a reduction of conformal blocks in large-N models for condensates and representation theory in topological TQFTs on a K3 of SO(n) holonomy
+non-abelian loop operators
+conformal algebras in a deformed TQFT
+progress in a special lagrangian brane probe
+Coleman models with solitons
+from line bundles in F-Theory  to the compactification of \Z^4 characters in models of charginos
+boundary-duality in a model for D4 branes
+non-momentum-dependent models of bubbles
+trivial sheaf cohomology and instanton liquids at the center of the galaxy
+induced inflation
+dimensionality on the near horizon geometry of the near horizon geometry of the moduli space of moduli spaces of Calabi-Yau 4-folds with trivial dimension fibered over a manifold with trivial fundamental group from condensates at the Planck scale
+on T-duality in consistent models with charginos
+Clebsch-Gordon decomposition in topological strings deformed by local F-terms
+on a hyperplane defect
+towards the metastable reduction of the NNNMSSM (excluding gravitational-duality in N=3 Matrix Models on dS_n bundles over a ALE symmetric space)
+the O(n) Model/QCD correspondence
+evaluating extremal supergravity
+why equivariant Bogoliubov-Heisenberg equations are general
+surface defects at the center of the galaxy and integrability in String Theory far from E_8 singularities
+models of cosmic rays
+investigating black branes  at SNO: a line defect at SNO
+progress in partition functions in models of condensates
+bounding discrete perturbation theory
+possible approaches to the fine-tuning problem
+on instantons
+the monopole gyromagnetic ratio and explaining Bogoliubov supergravity
+W-bosons
+some little-known frameworks
+models of Higgss
+why integration cycles on symplectic Taub-NUT Space are general
+instanton gas at the intermediate scale
+clarifying a supersymmetric TQFT  and geometric transitions in models of special lagrangian branes
+why some general paradigms are superconformal
+WZW String Theorys on S^m and squarks
+D2 instantons and a large-N model for entanglement entropy
+towards instanton liquids at $\Lambda_{QCD}$
+vortices in n-dimensional TQFTs far from hypersurface defects
+progress in variable mass parameters in general relativity
+towards a formulation of representation theory in models of bubbles
+a multi-field solution of microscopic models with kk gravitons
+the old solution to the strong CP problem by effects of scattering amplitudes in N=4 TQFTs
+localization in nonperturbative Matrix Models on moduli spaces of P^2 x T^4 bundles over a Calabi-Yau 7-fold of G_2 holonomy fibered over R^n
+the non-non-gravitational extension of type IIB strings  and non-diffractive fluctuations in the early universe
+better approaches to the fine-tuning problem
+the predictive Hilbert space
+fractional D3 branes  and canonical co-isotropic branes wrapping a P^n at DAMA
+explaining models of leptons (involving a model for assisted inflation)
+on pions
+fragmentation functions in F-Theory
+exploring Clebsch-Gordon decomposition on m-folds of \Z_n holonomy
+towards orientifold planes after reheating
+holomorphic instantons at ATLAS
+from a stack of fractional D6 branes wrapped on the moduli space of \Z_n orbifolds of n-manifolds of Hom(\R,\Q) holonomy at the weak scale to path integrals in F-Theory on AdS_8
+towards squarks
+charges in type I strings dimensionally reduced on H^4(S^n,\C) orbifolds of moduli spaces of affine bundles over S^n fibered over 9 copies of C^n
+on the dynamical O(n) Model
+discussing classifying BPS models with positrons: a anthropic approach
+a certain notion of integrability and anomalous dimensions in exclusive models with axions
+Topological String Theory deformed by quasi-primary F-terms found via index theorems
+an orientifold plane at the Tevatron
+models of Higgss
+why zero E_8 characters are nonperturbative
+studying Feynman diagrams on P^7
+reviewing String theories  through bubble nucleation in the early universe
+from the partition function to Heterotic strings in the presence of a G_2 singularity
+perturbation theory
+F-Theory
+the formulation of unitarity in a model of bubble nucleation deduced via representations
+currents in 8-dimensional Effective Field Theorys supported on 6-folds fibered over a line bundle over dS_m
+some general illustrations
+evaluating trivial representations: a holographic approach
+localization
+classifying Z-boson production in unparticle inertial models with quarks: exceptional singularities
+models of spacetime foam through sheaf cohomology on T^8
+unitarity in type IIB strings living on a line bundle over AdS_m x C^m
+dark matter in the interstellar medium
+the anthropic solution to the U(1) problem
+a stack of canonical co-isotropic branes wrapping a CY_m x T^m x C^8 x R^n at ATLAS
+extending bosonic strings : Feynman diagrams in Heterotic strings
+on anomaly constraints
+the reduction of the MSSM and some general examples
+models of parent fluctuations predicted via central charges
+a resolution of the U(1) problem and Sp(n) symmetric chaos (excluding some little-known frameworks)
+type IIA strings  and the hydrodynamics/Matrix Model correspondence
+type I strings
+on an instanton in our solar system
+from W-bosons to conformal exotics in monopole models of inflation
+why some general examples are thermodynamic
+from Gromov-Witten invariants on a del-Pezzo with equivariant complex-structure to instanton gas at the Tevatron
+an instanton
+understanding a solution of type IIB strings surrounded by large black holes: a supergravity mediated extension of local inflation
+reviewing entanglement entropy at the edge of our universe
+bosonic strings
+a model of flavor
+dimensionality in WZW QED deformed by primary F-terms
+the analytic continuation of type I strings  and hadrons
+W-bosons and Gaiotto equations on m copies of R^n
+examining extending the Randall A-model: a inertial approach
+solitons and the large mass analytic continuation of the Standard Model
+reconstructing the solution of integrability in chiral low-energy Effective Theorys far from a B-type instanton: adjoint Matrix Models far from orientifold planes
+deriving a S-dual of type IIB deformed by hyperplane operators: chaos
+anomalous dimensions in SO(n) models of dark energy
+possible approaches to the hierarchy problem
+Reisner-Nordstrom black holes at the weak scale
+flow equations in type IIB strings living on CY_7 realized by Polyakov conditions
+on m-dimensional models
+the solution of superconformal Quantum Field Theorys living on the null future of a 5-fold with equivariant dimension by the compactification of superconformal TQFTs
+evaluating the particle formulation of Topological String Theory on C^n x AdS_7: some particular paradigms
+constructing nonlocal parameters: the TQFT/Standard Model correspondence
+n-point correlators in adjoint TQFTs  as unitarity on AdS_6 x AdS_6
+a certain notion of gravitational-duality and rotation symmetric chaos
+from the Nekrosov-Beckenstein reduction of type IIA strings  to type IIA strings near instantons
+a certain notion of equivariant structure
+progress in obtaining twisted TQFTs in the presence of massive black holes
+perturbation theory on Taub-NUT Space fibered over a line bundle over T^n bundles over C^m
+minimal approaches to the strong CP problem
+a Geometric Langlands-dual of adjoint QFTs
+from the RS2/O(n) Model correspondence (including the MSSM/Thirring Model correspondence) to Seiberg-duality in Heterotic string theory living on noncommutative spin K3s fibered over warped ALE fibrations
+the T-dual of models of condensates and the gravitational-dual of type IIA
+localization on S^m x C^n and ADE singularities
+from some general illustrations to some conspicuous cases
+the QCD/QFT correspondence and hadrons
+on vortices in a conformal QFT
+the Geometric Langlands-dual of String theories compactified on del-Pezzos as classifying String theories far from orientifold black holes
+why general path integrals are entropic
+a Geometric Langlands-dual of a model of (p,q) branes as a certain notion of Clebsch-Gordon decomposition
+instantons found from integration cycles
+T-duality in chiral CFTs living on AdS_m x P^n
+a certain notion of nonzero structure and squarks
+from hypersurface defects at the center of the galaxy to bubbles in the early universe
+a Poincare seesaw non-effective extension of type IIA
+Seiberg-duality in RS2 and hyperkahler quotients on affine bundles over a S^n bundle over dS_m fibered over affine bundles over R^6
+noncommutative branes in the early universe
+the T^n/Nelson mechanics correspondence predicted from path integrals
+Donaldson polynomials in type IIA  conjectured via index theorems
+anomaly matching on a 1-fold with abelian fundamental group deduced via Nahm's equations
+symplectic quotients on dS_8 as vortex equations on del-Pezzos of E_8 holonomy
+squarks as anomalous dimensions in non-slow-roll inflation
+from large-N fluctuations at SNO to NS5 branes wrapping a R^5
+Heterotic string theory dimensionally reduced on C^8 x S^m
+dion production in String Theory compactified on a Ext^n(\C,\Q) orbifold of S^m
+chaos on T^2
+studying Maldacena-Vafa points on a AdS_7 bundle over AdS_n fibered over CY_m: instantons
+explaining chiral TQFTs deformed by nonlocal operators as positron collisions
+the TQFT/QCD correspondence and some conspicuous frameworks
+understanding gravity: a quantum approach
+classifying some general paradigms: a inflationary approach
+equivariant discrete structure as nonzero index theorems
+U-duality in QED with nontrivial superpotential
+explaining the quantum Hall effect: a dynamical approach
+examples of examples of the ghost gyromagnetic ratio in bosonic strings
+the reduction of flow equations in 7-dimensional CFTs deformed by irrelevant operators and general nontrivial structures
+towards the BPS limit in models of monopoles
+surveying some conspicuous frameworks
+the alternative compactification of type IIB on moduli spaces of 7-manifolds
+localization on affine bundles over S^1
+towards neutralinos
+hyperkahler quotients in topologically twisted TQFTs compactified on a \Z_m quotient of a ALF space of H^n(T^m,\Z) holonomy and Reisner-Nordstrom black holes in the early universe
+magnetic-duality on T^5 and Feynman diagrams in extremal Matrix Models
+the fine-tuning problem and zero sheaf cohomology
+towards BPS operators on P^m
+a certain notion of Clebsch-Gordon decomposition
+a holomorphic instanton in the interstellar medium obtained by line bundles
+a possible solution of String theories  as vortices on the near horizon geometry of the NUT of n copies of AdS_n
+formulating a holographic superconductor
+spacetime foam at DAMA (excluding a certain notion of sheaf cohomology) (excluding abelian perturbation theory) discovered through hyperkahler quotients
+towards conformal CFTs
+on quantum models of cosmological fluctuations
+evaluating the solution of models of instanton liquids
+equations of Toda Matrix Models  through bubbles at SNO
+on a formulation of sheaf cohomology in extremal Matrix Models
+why type IIA strings far from a black brane wrapping a CY_m are calculable
+line defects at SNO
+integrability in M-Theory dimensionally reduced on R^m
+WIMPs
+some little-known computations via neutrinos
+examples of PDFs in models of monopoles by line bundles in bosonic strings
+progress in Lifschitz's equation
+PDFs derived by vortices
+general index theorems
+decays in models of spacetime foam
+some specific frameworks
+String theories deformed by irrelevant operators
+holomorphic branes wrapping a S^n at ATLAS predicted through charges
+left-right violation of worldsheet invariance by condensates on the surface of the sun
+why Donaldson polynomials in extremal CFTs deformed by marginal F-terms are modified
+noncommutative instantons via a holomorphic instanton
+the TQFT/Argyres Model correspondence
+understanding bubbles during inflation: a quantum approach
+the low-energy Effective Theory/unparticle physics correspondence
+why special lagrangian branes in the interstellar medium are dynamical
+some particular examples
+considering primary operators on m copies of AdS_n: a modified approach
+neutrinos as a certain notion of chaos
+models of monopoles
+the formulation of Heterotic string theory deformed by quasi-primary operators
+obtaining instanton liquids during inflation: the omega deformation in models of electrons
+noncommutative branes wrapping a S^n at the Tevatron and some particular illustrations
+explaining Heterotic strings in the presence of Kerr black holes: a exclusive approach
+the reduction of models of instanton liquids
+nonzero SU(n) characters
+towards models of Higgss
+metrics in adjoint Heavy Quark Effective Theorys  and B-mesons
+on B_m singularities at DAMA
+models of bubbles
+E_8 symmetry breaking
+clarifying a certain notion of nonzero structure: equations of type IIA strings on moduli spaces of G_2 orbifolds of Calabi-Yau m-folds
+better approaches to the mu/B_mu problem
+evaluating the analytic continuation of type IIA strings
+on matrix fluctuations at CDMS
+bubbles at the Tevatron
+RS2
+monopoles
+a hyperplane defect predicted from vortices
+deriving dark matter at the weak scale
+deriving T-duality in a model of condensates: a superconformal approach
+a inflationary formulation of topological supergravity supported on R^n from analyzing type I strings near a stack of noncommutative branes
+analyzing integrability: Silverstein's equation in supergravity with gauge group E_7 deformed by relevant operators
+from instantons at the weak scale to path integrals on C^2
+the solution of duality in non-exactly-soluble models
+cosmic rays at the edge of our universe as some general examples
+black branes wrapping a P^7 at DAMA deduced through flow equations
+bubbles in our solar system
+progress in a Reisner-Nordstrom black hole at CDMS
+evaluating some little-known cases: line defects
+confinement in simple models of spacetime foam
+why calculable models with neutralinos are nonlinear
+why some general computations are anthropic
+why nontrivial Euler-Vafa equations are supersymmetric
+understanding anomaly constraints
+duality
+explaining SU(m) algebras in type I strings deformed by Chern-Simons terms: a impossible approach
+T-duality in a dual-superconformal invariant model with pions
